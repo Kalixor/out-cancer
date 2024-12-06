@@ -43,13 +43,23 @@
 
 .medical-illustration-mini {
   float: right;
-  width: 40%;
+  width: 35%;
   height: auto;
-  margin: 0.8em 0 0.8em 1.5em;
+  margin: 0.8em 0 1.5em 1.5em;
   border-radius: 8px;
   object-fit: cover;
   box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
   transition: box-shadow 0.3s ease;
+  clear: right; /* Ensures proper clearing of floated elements */
+}
+
+.medical-illustration-mini-trsp {
+  float: right;
+  width: 35%;
+  height: auto;
+  margin: 0.8em 0 1.5em 1.5em;
+  transition: box-shadow 0.3s ease;
+  clear: right; /* Ensures proper clearing of floated elements */
 }
 
 .medical-illustration:hover,
@@ -94,6 +104,12 @@
   border: 1px solid rgba(255, 255, 255, 0.12);
   color: rgb(249, 225, 197);
   line-height: 1.8;
+  clear: both; /* Ensures the highlight appears below floated images */
+}
+
+.green-text {
+  color: #FCFAEB;
+  text-align: center;
 }
 
 /* Underline text */

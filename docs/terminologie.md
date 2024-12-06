@@ -8,16 +8,16 @@
 Un milieu est considéré comme acide lorsque son pH est inférieur à 7. Cette acidité est due à une concentration élevée en ions hydronium (H₃O⁺) ou en protons (H⁺).
 <ReturnLink />
 
-### Angiogenèse {#angiogenèse}
+### Angiogenèse {#angiogenese}
 Processus par lequel de nouveaux vaisseaux sanguins se forment à partir de vaisseaux préexistants.
 <ReturnLink /> 
 
-### Biosynthèse {#biosynthèse}
+### Biosynthèse {#biosynthese}
 Processus par lequel les cellules produisent des molécules complexes essentielles à leur structure et à leur fonction, à partir de précurseurs simples. Ce mécanisme est fondamental pour la formation de composés organiques tels que les protéines, les lipides et les acides nucléiques.
 <ReturnLink />
 
 ### VEGF {#vegf}
-(Vascular Endothelial Growth Factor ou facteur de croissance de l'endothélium vasculaire) est une glycoprotéine essentielle dans le processus d'angiogenèse .
+(Vascular Endothelial Growth Factor ou facteur de croissance de l'endothélium vasculaire) est une glycoprotéine essentielle dans le processus d'<span id="acide-ref1">[Angiogenèse](/terminologie#angiogenese)</span> .
 <ReturnLink />
 
 ### Apoptose {#apoptose}
@@ -86,6 +86,10 @@ Document écrit qui décrit les procédures à suivre pour le diagnostic, le tra
 
 ### Respiration {#respiration}
 Processus métabolique par lequel les cellules transforment les nutriments, principalement le glucose, en énergie sous forme d'adénosine triphosphate (ATP), nécessitant de l’oxygène (aérobie).
+<ReturnLink />
+
+### Rétro-inhibition {#retro}
+Mécanisme de régulation métabolique où le produit final d'une voie enzymatique inhibe une enzyme impliquée dans sa propre synthèse, souvent la première de la chaîne, afin de maintenir l'homéostasie et prévenir la surproduction de ce produit.
 <ReturnLink />
 
 ### Thérapie {#therapie}

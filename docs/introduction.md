@@ -1,9 +1,6 @@
-
-
 ![Medical Illustration](https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=1200){.medical-illustration}
 
 <SocialActions />
-
 
 # Thérapeutique du Cancer 🥦
 
@@ -18,7 +15,7 @@
 
 ![Medical Illustration](/assets/illustration_3.jpg){.medical-illustration-mini}
 
-Le Cancer étant une maladie multifactorielle, son traitement sera lui aussi multimodal (plusieurs types de <span id="therapie-ref1">[Thérapie](/terminologie#therapie){data-return="therapie-ref1"}</span>), avec les <span id="protocole-ref1">[Protocoles](/terminologie#protocol){data-return="protocol-ref1"}</span> adaptés.
+Le Cancer étant une maladie multifactorielle, son remède sera lui aussi multimodal (plusieurs types de <span id="therapie-ref1">[Thérapie](/terminologie#therapie){data-return="therapie-ref1"}</span>), avec les <span id="protocole-ref1">[Protocoles](/terminologie#protocol){data-return="protocol-ref1"}</span> adaptés.
 
 La technique de la médecine conventionnelle utilise l'approche physique destructive ; Soit par le poison 🧪 ; chimiothérapie, soit par le feu 🔥; radiothérapie, soit par le couteau 🔪 ; ablation.
 
@@ -26,50 +23,44 @@ D'une efficacité salvatrice (dans les scénarii les plus sévère), ces démarc
 
 Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <span class="underline-text">la dissolution de l'Effet</span>, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur <span class="underline-text">la compréhension de la Cause</span> en visant sa déconstruction.
 
-En effet, rien ne prouve qu’une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés, nous devrions être en mesure de favoriser cette réversibilité. 
+En effet, rien ne prouve qu'une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés, nous devrions être en mesure de favoriser cette réversibilité. 
 
 <div class="glossy-highlight">
-Détruire sans prendre le temps de s’instruire n’ouvre pas la voie à la guérison... 
+Détruire sans prendre le temps de s'instruire n'ouvre pas la voie à la guérison... 
 </div>
-
 
 ## Mais c'est quoi le Cancer ? {#section2}
 
 ![Medical Illustration](/assets/illustre_4.webp){.medical-illustration-mini}
 Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…
 
-<div class="glossy-highlight">Le Cancer est un dérèglement du comportement cellulaire</div>
- 
- Un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
- 
+<div class="green-text">Le Cancer est un dérèglement du comportement cellulaire</div>
+<br>
+
+C'est un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
+
 <div class="glossy-highlight">
-Manifestement, Elles refusent la mort ! 
+Elles prolifèrent en refusant de mourir !
 </div>
 
-<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la Fermentation, une autre voie de subsistance indépendante de l’oxygène (de la Respiration).
+<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](/terminologie#fermentation){data-return="fermentation-ref1"}</span>, une autre voie de subsistance indépendante de l'oxygène (de la <span id="respiration-ref1">[Respiration](/terminologie#respiration){data-return="respiration-ref1"}</span>).
+
+<b>Dans cette posture (de rébellion)</b>, les cellules cancéreuses s’assurent de rester insensibles à la régulation de croissance (<span id="apoptose-ref1">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref1"}</span>) administrée par l’organisme. Leurs déclencheurs d’apoptose (<span id="p53-ref1">[p53](/terminologie#P53){data-return="p53-ref1"}</span>) sont désactivés (par <span id="mutation-ref1">[Mutation Génique](/terminologie#mutation){data-return="mutation-ref1"}</span>), leur <span id="retro-ref1">[Rétro-inhibition](/terminologie#retro){data-return="retro-ref1"}</span> ne s’opère plus, leurs protéines anti-apoptotiques sont surexprimées, et leur réception des signaux de mort est rompue (par inhibiteurs et récepteurs leurres).
+
+Afin de pérenniser leur survie (<b>pour le coup clandestine</b>), elles doivent se prémunir de tout stress oxydatif. Pour cela, elles maintiennent — par <span id="mutationepi-ref1">[Mutation Epigénétique](/terminologie#mutation-epi){data-return="mutationepi-ref1"}</span> sous-exprimant la protéine Keap1 — une production accrue d'antioxydants endogènes (glutathions…). 
+
+![Medical Illustration](/assets/bulles.png){.medical-illustration-mini-trsp}
+
+Leur <span id="potentiel-ref1">[Potentiel Redox](/terminologie#potentiel){data-return="potentiel-ref1"}</span> devient alors réducteur (finement alcalin) et leur permet de neutraliser l’excès d’oxydants <span id="ero-ref1">[ERO](/terminologie#ero){data-return="ero-ref1"}</span> due au métabolisme énergétique altéré de leurs <span id="mitochondries-ref1">[Mitochondries](/terminologie#mitochondries){data-return="mitochondries-ref1"}</span> (qui aurait dû les conduire à leur mort), et par d’autres agressions exogènes éventuelles (chimio et autres).
+
+<b>Nos anarchistes</b> passent sous les radars, <b>elles échappent également à la surveillance immunitaire</b> par recrutement (détournement) des <span id="macrophages-ref1">[Macrophages](/terminologie#macrophages){data-return="macrophages-ref1"}</span>, ce qui leur permet de végéter allégrement (<span id="mitose-ref1">[Mitose](/terminologie#mitose){data-return="mitose-ref1"}</span>), en totale <span id="biosynthese-ref1">[Biosynthèse](/terminologie#biosynthese){data-return="biosynthese-ref1"}</span> anarchique.
+
+Et tout ceci avec une stabilité intracellulaire (<span id="homeostasie-ref1">[Homéostasie](/terminologie#homeostasie){data-return="homeostasie-ref1"}</span> alcalin) adaptée pour leur cause, et dans un microenvironnement extracellulaire tumoral (<span id="hypoxique-ref1">[Hypoxique](/terminologie#hypoxie){data-return="hypoxique-ref1"}</span> et <span id="acide-ref1">[Acide](/terminologie#acide){data-return="acide-ref1"}</span>), juste propice à leur nutrition  (<span id="angiogenese-ref1">[Angiogenèse](/terminologie#angiogenese){data-return="angiogenese-ref1"}</span> <span id="vegf-ref1">[VEGF](/terminologie#vegf){data-return="vegf-ref1"}</span>), à leur propagation (<span id="invasion-ref1">[Invasion Tumorale](/terminologie#invasion){data-return="invasion-ref1"}</span>), et à leur migration (<span id="metastase-ref1">[Métastase](/terminologie#metastase){data-return="metastase-ref1"}</span>) si besoin ; soit l’organe hôte est dépassé en capacité (Invasion totale ou Ablation), soit le microenvironnement est devenu trop inhospitalier (par Chimio, Radio, Immuno, ou autre).
+
+## Mais c'est quoi le Cancer ? {#section3}
 
 
 
-
-
-
-Contenu de la section 2...
-
-Le Cancer étant une maladie multifactorielle, son traitement sera lui aussi multimodal (plusieurs types de Thérapie), avec les Protocoles adaptés.
-
-La technique de la médecine conventionnelle utilise l'approche physique destructive ; Soit par le poison ; chimiothérapie, soit par le feu ; radiothérapie, soit par le couteau ; ablation.
-
-Le Cancer étant une maladie multifactorielle, son traitement sera lui aussi multimodal (plusieurs types de Thérapie), avec les Protocoles adaptés. La technique de la médecine conventionnelle utilise l'approche physique destructive ; Soit par le poison ; chimiothérapie, soit par le feu ; radiothérapie, soit par le couteau ; ablation.
-
-<ReturnLink />
-
-## Section 3 {#section3}
-
-Contenu de la section 3...
-
-Le Cancer étant une maladie multifactorielle, son traitement sera lui aussi multimodal (plusieurs types de Thérapie), avec les Protocoles adaptés.
-
-La technique de la médecine conventionnelle utilise l'approche physique destructive ; Soit par le poison ; chimiothérapie, soit par le feu ; radiothérapie, soit par le couteau ; ablation. <span id="therapie-ref2">[Thérapie](/terminologie#therapie){data-return="therapie-ref2"}</span>
 
 ## Ablation {#ablation} 
 
