@@ -16,7 +16,7 @@
 
 ## Les Approches du Remède {#section1}
 
-![Medical Illustration](/assets/illustration_2.webp){.medical-illustration-mini}
+![Medical Illustration](/assets/illustration_3.jpg){.medical-illustration-mini}
 
 Le Cancer étant une maladie multifactorielle, son traitement sera lui aussi multimodal (plusieurs types de <span id="therapie-ref1">[Thérapie](/terminologie#therapie){data-return="therapie-ref1"}</span>), avec les <span id="protocole-ref1">[Protocoles](/terminologie#protocol){data-return="protocol-ref1"}</span> adaptés.
 
@@ -29,16 +29,29 @@ Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <
 En effet, rien ne prouve qu’une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés, nous devrions être en mesure de favoriser cette réversibilité. 
 
 <div class="glossy-highlight">
-Détruire sans prendre le temps de s’instruire n’ouvre pas la voie à la guérison, mais conduit seulement à un traitement perpétuel...
+Détruire sans prendre le temps de s’instruire n’ouvre pas la voie à la guérison... 
 </div>
 
 
-## Mais le Cancer c'est quoi ? {#section2}
+## Mais c'est quoi le Cancer ? {#section2}
 
+![Medical Illustration](/assets/illustre_4.webp){.medical-illustration-mini}
 Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…
 
 <div class="glossy-highlight">Le Cancer est un dérèglement du comportement cellulaire</div>
- (Néoplasme Malin).
+ 
+ Un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
+ 
+<div class="glossy-highlight">
+Manifestement, Elles refusent la mort ! 
+</div>
+
+<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la Fermentation, une autre voie de subsistance indépendante de l’oxygène (de la Respiration).
+
+
+
+
+
 
 Contenu de la section 2...
 
