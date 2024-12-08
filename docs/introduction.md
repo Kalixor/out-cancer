@@ -15,7 +15,7 @@
 
 ![Medical Illustration](/assets/illustration_3.jpg){.medical-illustration-mini}
 
-Le Cancer étant une maladie multifactorielle, son remède sera lui aussi multimodal (plusieurs types de <span id="therapie-ref1">[Thérapie](/terminologie#therapie){data-return="therapie-ref1"}</span>), avec les <span id="protocole-ref1">[Protocoles](/terminologie#protocol){data-return="protocol-ref1"}</span> adaptés.
+Le Cancer étant une maladie multifactorielle, son remède sera lui aussi multimodal (plusieurs types de <span id="therapie-ref1">[Thérapie](/terminologie#therapie){data-return="therapie-ref1"}</span>), avec les <span id="protocol-ref1">[Protocoles](/terminologie#protocol){data-return="protocol-ref1"}</span> adaptés.
 
 La technique de la médecine conventionnelle utilise l'approche physique destructive ; Soit par le poison 🧪 ; chimiothérapie, soit par le feu 🔥; radiothérapie, soit par le couteau 🔪 ; ablation.
 
@@ -78,7 +78,7 @@ C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès d
 
 ## De la Psychosomatique à la Spiritualité {#section4} 
 
-  La démarche spirituelle n’est pas à négliger, chacun selon ses moyens, via la captation d’une vibration (résonnance) énergétique positive, apaisante et dissipatrice. C’est primordial car il s’est avéré que toutes les maladies présentent <span class="underline-text">un excès d’électrons</span> (de surcroit les tumeurs cancéreuses) induisant de la <span id="biosynthese-ref2">[Biosynthèse](/terminologie#biosynthese){data-return="biosynthese-ref2"}</span> excédentaire et futile. Cette soupape bien qu’immatérielle reste concrète. Une connexion verticale transcendante (du Vivant à la Source), qui soit responsable et fluide, plutôt qu'uniquement horizontale (du Patient au Praticien), souvent marquée par l'irresponsabilité et la variabilité.
+  La démarche spirituelle n’est pas à négliger, chacun selon ses moyens, via la captation d’une vibration (résonnance) énergétique positive, apaisante et dissipatrice. C’est primordial car il s’est avéré que toutes les maladies présentent <span class="underline-text">un excès d’électrons</span> (de surcroit les tumeurs cancéreuses) induisant de la <span id="biosynthese-ref2">[Biosynthèse](/terminologie#biosynthese){data-return="biosynthese-ref2"}</span> excédentaire et futile. Ce court-circuit spirituel, bien qu’immatérielle (à notre échelle), reste tangible.  Une connexion verticale transcendante (du Vivant à la Source), qui soit responsable et fluide, plutôt qu'uniquement horizontale (du Patient au Praticien), souvent marquée par l'irresponsabilité et la variabilité.
   
 <div class="glossy-highlight">Il est temps de se prendre en charge, de renouer la confiance en la synergie du corps et de l’esprit, d’une puissance bien insoupçonnée.</div>
 

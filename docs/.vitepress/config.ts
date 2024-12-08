@@ -23,14 +23,14 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Introduction', link: '/introduction' },
+      { text: 'Préambule', link: '/introduction' },
       { text: 'Terminologie', link: '/terminologie' }
     ],
 
     sidebar: [
       {
         items: [
-          { text: 'Introduction', link: '/introduction' },
+          { text: 'Préambule', link: '/introduction' },
           { text: 'Terminologie', link: '/terminologie' }
         ],
       },
