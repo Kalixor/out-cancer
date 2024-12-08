@@ -36,7 +36,6 @@ Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un cha
 
 <div class="green-text">Le Cancer est un dérèglement du comportement cellulaire</div>
 
-
 C'est un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
 
 <div class="glossy-highlight">
@@ -57,36 +56,41 @@ Leur <span id="potentiel-ref1">[Potentiel Redox](/terminologie#potentiel){data-r
 
 Et tout ceci avec une stabilité intracellulaire (<span id="homeostasie-ref1">[Homéostasie](/terminologie#homeostasie){data-return="homeostasie-ref1"}</span> alcalin) adaptée pour leur cause, et dans un microenvironnement extracellulaire tumoral (<span id="hypoxique-ref1">[Hypoxique](/terminologie#hypoxie){data-return="hypoxique-ref1"}</span> et <span id="acide-ref1">[Acide](/terminologie#acide){data-return="acide-ref1"}</span>), juste propice à leur nutrition  (<span id="angiogenese-ref1">[Angiogenèse](/terminologie#angiogenese){data-return="angiogenese-ref1"}</span> <span id="vegf-ref1">[VEGF](/terminologie#vegf){data-return="vegf-ref1"}</span>), à leur propagation (<span id="invasion-ref1">[Invasion Tumorale](/terminologie#invasion){data-return="invasion-ref1"}</span>), et à leur migration (<span id="metastase-ref1">[Métastase](/terminologie#metastase){data-return="metastase-ref1"}</span>) si besoin ; soit l’organe hôte est dépassé en capacité (Invasion totale ou Ablation), soit le microenvironnement est devenu trop inhospitalier (par Chimio, Radio, Immuno, ou autre).
 
-## A Maladie rebelle, Remède noble et discipliné {#section3}
+## A Maladie rebelle, Remède discipliné {#section3}
 
  Nous sommes face à un phénomène biologique dont on ne saisit pas totalement la substance, ni la portée holistique. La technicité du Cancer nous dépasse, sa Causalité reste équivoque. Etant multifactoriel, son approche thérapeutique doit être multidimensionnelle. Etant comportemental, son remède doit être contextuel. Etant organique, son traitement doit être naturel.
 
 C’est dans cette approche (holistique et naturelle) que le protocole ci-après a été établit. En gardant à l’esprit que la Solution se trouve dans la Force et le Fonctionnement même de notre Organisme (physique et psychique) puisqu’il a su contracter la dégénérescence (probablement en réponse à un déséquilibrage multifactorielle).
 
-L’organisme est acteur de sa condition alors qu’on le considère victime passif. 
+<div class="glossy-highlight">L’organisme est acteur de sa condition alors qu’on le considère victime passif.
 Le Cancer est un Message, pas une Punition !
+</div>
 
-L'objectif ici est de réunir les conditions naturelles optimales pour que se rétablisse l'équilibre systémique  — physique, mental et émotionnel — en adoptant le principe d'individualisation (de l’Homéopathie). Une réinitialisation, suivi de fins ajustements (palliatif), pour ensuite laisser l’Endosymbiose s’accorder grâce à la puissance de la Nature. Nous disposons d’un système de survie subtilement conçu, parfaitement équipé pour évoluer dans un environnement riche et harmonieusement adapté. Ce système, capable d’autoréparation, ne demande qu’à retrouver l’intégrité de son équilibre fonctionnel pour déployer tout son potentiel.
+L'objectif ici est de réunir les conditions naturelles optimales pour que se rétablisse l'équilibre systémique  — physique, mental et émotionnel — en adoptant le principe d'individualisation (de l’<span id="homeopathie-ref1">[Homéopathie](/terminologie#homeopathie){data-return="homeopathie-ref1"}</span>). Une réinitialisation, suivi de fins ajustements (palliatif), pour ensuite laisser l’<span id="endosymbiose-ref1">[Endosymbiose](/terminologie#endosymbiose){data-return="endosymbiose-ref1"}</span> s’accorder grâce à la puissance de la Nature.
+
+![Medical Illustration](/assets/illustre_8.jpg){.medical-illustration-mini}
+
+Nous disposons d’un système de survie subtilement conçu, parfaitement équipé pour évoluer dans son environnement riche et harmonieusement adapté. Ce système, capable d’autoréparation, ne demande qu’à retrouver l’intégrité de son équilibre fonctionnel pour déployer tout son potentiel.
 
 En outre, la Nature n’a certainement pas besoin de nos leçons — c’est elle qui, à maintes reprises, nous enseigne. Nos interventions, souvent guidées par nos propres perceptions, sont focalisées sur le lien causal de nos actions et leurs effets. Comme si nous en étions les réalisateurs, ce qui est faux, le maître d’œuvre c’est bien le système biologique, nous ne sommes que des utilisateurs, parfois facilitateurs, mais aussi perturbateurs (souvent à l’insu).
 
 C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès de compositions, pour induire un équilibre naturel des contextes de vie favorisant l’harmonie fonctionnelle du métabolisme et de la communication cellulaire, du système immunitaire, et de l’interconnexion des processus mentaux (psychisme).
 
-
 ## De la Psychosomatique à la Spiritualité {#section4} 
 
-[Aller à la section 2](#section2){data-return="section3"}
+  La démarche spirituelle n’est pas à négliger, chacun selon ses moyens, via la captation d’une vibration (résonnance) énergétique positive, apaisante et dissipatrice. C’est primordial car il s’est avéré que toutes les maladies présentent <span class="underline-text">un excès d’électrons</span> (de surcroit les tumeurs cancéreuses) induisant de la <span id="biosynthese-ref2">[Biosynthèse](/terminologie#biosynthese){data-return="biosynthese-ref2"}</span> excédentaire et futile. Cette soupape bien qu’immatérielle reste concrète. Une connexion verticale transcendante (du Vivant à la Source), qui soit responsable et fluide, plutôt qu'uniquement horizontale (du Patient au Praticien), souvent marquée par l'irresponsabilité et la variabilité.
+  
+<div class="glossy-highlight">Il est temps de se prendre en charge, de renouer la confiance en la synergie du corps et de l’esprit, d’une puissance bien insoupçonnée.</div>
 
-<ReturnLink />
+![Medical Illustration](/assets/illustre_7.webp){.medical-illustration-mini}
 
-## Powered by Vite
+ Dans cette optique, d’autres dimensions thérapeutiques seront impliqués, comme ceux d’ordre psychosomatique, homéopathique, et spirituel, des alternatives complémentaires — bien que non reconnues — à ne pas négliger en vue d’une réelle perspective de guérison. 
+En somme, nous utiliserons 6 approches thérapeutiques naturelles, réputées sans effets secondaires, matérielle comme spirituelle, et d’une efficacité prouvée :  
 
-VitePress uses Vite under the hood. This means:
 
-- Instant server start
-- Lightning fast HMR
-- Optimized builds
-
-## Markdown-Centered
-
-So you can focus more on writing. Powered by MarkdownIt. Comes with many [built-in extensions](https://vitepress.dev/guide/markdown), and you can use Vue features in Markdown too!
+ - <b>Le Jeûne et la Diététique (Cétogène)</b>
+ - La Thérapie Oxydative Métabolique
+ - <b>L’Hydrothérapie froide</b>
+ - L’immunothérapie
+ - La Psychothérapie (Psychosomatique)
+ - <b>La Méditation et la Prière</b>
