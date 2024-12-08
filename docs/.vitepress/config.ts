@@ -24,6 +24,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Préambule', link: '/introduction' },
+      { text: 'Posologie : Phase 1', link: '/posologie_1' },
       { text: 'Terminologie', link: '/terminologie' }
     ],
 
@@ -31,6 +32,7 @@ export default defineConfig({
       {
         items: [
           { text: 'Préambule', link: '/introduction' },
+          { text: 'Posologie : Phase 1', link: '/posologie_1' },
           { text: 'Terminologie', link: '/terminologie' }
         ],
       },
