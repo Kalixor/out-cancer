@@ -34,7 +34,7 @@
   display: block;
   width: 70%;
   height: auto;
-  margin: 2em 0;
+  margin: 2em auto;
   border-radius: 8px;
   object-fit: cover;
   box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);

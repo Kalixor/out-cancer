@@ -1,5 +1,6 @@
-![Medical Illustration](https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=1200){.medical-illustration}
+![Medical Illustration](/assets/illustre_10.jpg){.medical-illustration}
 
 <SocialActions />
 
 # Cancer : 🎗 Posologie phase 1
+PHASE 1 : 10 Jours - Préparation du corps: Induction d’un stress alimentaire et purification (détoxification non assistée) - Préparation de l’esprit : Examen psychosomatique, identification facteurs psychiques
