@@ -46,7 +46,7 @@
 
 <div class="bg-green-200/50 px-1 py-1">REGIME ALIMENTAIRE :</div>
 
-Jeûne hydrique en <span id="regime-ref1">[Régime Cétogène](/terminologie#regime){data-return="regime-ref1"}</span><br><br>
+Jeûne hydrique / souple en <span id="regime-ref1">[Régime Cétogène](/terminologie#regime){data-return="regime-ref1"}</span> (à 50%) <br><br>
 
 <div class="custom-quote mt-2">
 <p>« La maladie, une solution biologique palliative et transitoire dominée par une source (psychique) conflictuelle active »</p>
