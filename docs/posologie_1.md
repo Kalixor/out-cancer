@@ -18,7 +18,7 @@
 
 <div class="bg-green-200/50 px-1 py-1">OBJECTIF :</div>
 
- Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique - Famine pour inciter l’<span id="autophagie-ref1">[Autophagie](/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) et l'<span id="apoptose-ref2">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
+ Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et bascule naturelle en mode de fonctionnement <span id="cetonique-ref1">[Cétonique](/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> - Famine pour inciter l’<span id="autophagie-ref1">[Autophagie](/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) et l'<span id="apoptose-ref2">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
 
 
 <div class="inline-block p-4 my-4 border-4 border-green-600/20 dark:border-green-200/50 rounded-lg italic text-center text-green-800 dark:text-green-200">
@@ -42,11 +42,12 @@
 
 - IMC et État de fatigue du sujet (si besoin ajouter quelques protéines).
 - Prendre le pH (urinaire) en début et fin de phase.
+- Mesurer la Glycémie et la Cétonémie Cétose tous les 2 Jours (bandelettes)
 - Prendre un cliché (marqueurs) de la masse tumorale par échographie ultrason.
 
 <div class="bg-green-200/50 px-1 py-1">REGIME ALIMENTAIRE :</div>
 
-Jeûne hydrique / souple en <span id="regime-ref1">[Régime Cétogène](/terminologie#regime){data-return="regime-ref1"}</span> (à 50%) <br><br>
+Jeûne hydrique / souple en <span id="regime-ref1">[Régime Cétogène](/annexes#regime){data-return="regime-ref1"}</span> (Cétose lègère à 8.8) <br><br>
 
 <div class="custom-quote mt-2">
 <p>« La maladie, une solution biologique palliative et transitoire dominée par une source (psychique) conflictuelle active »</p>

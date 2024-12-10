@@ -24,6 +24,14 @@ Mort Cellulaire Programmée.
 Processus par lequel les cellules produisent des molécules complexes essentielles à leur structure et à leur fonction, à partir de précurseurs simples. Ce mécanisme est fondamental pour la formation de composés organiques tels que les protéines, les lipides et les acides nucléiques.
 <ReturnLink />
 
+### Cétonémie {#cetonemie}
+Désigne la concentration de corps cétoniques dans le sang. Ces composés, produits par le foie lors de la dégradation des graisses, servent de source d'énergie alternative lorsque le glucose est insuffisant, comme en période de jeûne prolongé ou lors d'une activité physique intense. Chez une personne en bonne santé, la cétonémie normale varie entre 5 et 20 mg par litre.
+<ReturnLink />
+
+### Etat Cétonique, ou Cétose {#etat_cetonique}
+Etat métabolique dans lequel l'organisme, en l'absence de glucose, commence à brûler les graisses pour produire de l'énergie. Cette production de corps cétoniques survient lorsque les réserves de glucose sont insuffisantes, comme lors d'un jeûne prolongé, d'une activité physique intense ou d'un régime pauvre en glucides. Les corps cétoniques ainsi formés servent de source d'énergie alternative pour divers organes, notamment le cerveau.
+<ReturnLink />
+
 ### VEGF {#vegf}
 (Vascular Endothelial Growth Factor ou facteur de croissance de l'endothélium vasculaire) est une glycoprotéine essentielle dans le processus d'<span id="acide-ref1">[Angiogenèse](/terminologie#angiogenese)</span> .
 <ReturnLink />
@@ -35,6 +43,10 @@ Forme de symbiose où un organisme vit à l'intérieur des cellules ou des tissu
 ### Fermentation {#fermentation}
 Processus métabolique par lequel les cellules produisent de l'énergie en l'absence d'oxygène (anaérobie), en dégradant des molécules organiques comme le glucose.
 <ReturnLink />  
+
+### Glycémie {#glycemie}
+Concentration de glucose (sucre) dans le sang, essentielle pour fournir de l'énergie aux cellules de l'organisme. Chez une personne en bonne santé, la glycémie à jeun se situe généralement entre 0,70 et 1,10 gramme par litre de sang.
+<ReturnLink />
 
 ### Homéopathie {#homeopathie}
 Médecine alternative qui stipule qu’une substance provoquant des symptômes chez un individu sain peut, à dose très diluée, traiter ces mêmes symptômes chez une personne malade (principe de similitude : "les semblables sont guéris par les semblables") - Utilisé pour stimuler les mécanismes naturels de guérison.
@@ -96,34 +108,6 @@ Processus métabolique par lequel les cellules transforment les nutriments, prin
 Mécanisme de régulation métabolique où le produit final d'une voie enzymatique inhibe une enzyme impliquée dans sa propre synthèse, souvent la première de la chaîne, afin de maintenir l'homéostasie et prévenir la surproduction de ce produit.
 <ReturnLink />
 
-
-### Régime Cétogène / Cétonique {#regime}
-
-(Régime pauvre en glucides et riche en graisses, 900 à 1 500 kcal/jour)
-
-<div class="bg-green-200/50 px-1 py-1">Aliments recommandés :</div>
-
-- <b>Viandes et volailles</b> : Bœuf, agneau, poulet, dinde, canard. Privilégiez les viandes nourries à l'herbe et les volailles élevées en plein air.
-- <b>Poissons et fruits de mer</b> : Saumon, maquereau, sardines, thon, crevettes, huîtres. Les poissons gras sont particulièrement bénéfiques en raison de leur teneur en oméga-3.
-- <b>Œufs</b> : Œufs entiers, de préférence issus de poules élevées en plein air.
-- <b>Huiles et graisses saines</b> : Huile d'olive extra vierge, huile de coco, huile d'avocat, beurre, ghee.
-- <b>Légumes à faible teneur en glucides</b> : Épinards, brocoli, chou-fleur, courgettes, asperges, poivrons, concombres, avocats. Les légumes verts à feuilles sont particulièrement recommandés.
-- <b>Noix et graines</b> : Amandes, noix de macadamia, graines de chia, graines de lin, graines de tournesol. Consommez-les avec modération en raison de leur teneur en glucides.
-- <b>Produits laitiers riches en matières grasses</b> : Fromages à pâte dure, crème épaisse, yaourt grec nature. Évitez les produits laitiers allégés en matières grasses.
-- <b>Baies en petites quantités</b> : Framboises, mûres, fraises. À consommer avec modération en raison de leur teneur en glucides.
-
-
-<div class="bg-red-200/50 px-1 py-1">Aliments à éviter :</div>
-
-- <b>Sucres et édulcorants</b> : Sucre blanc, miel, sirop d'érable, boissons sucrées, bonbons, pâtisseries.
-- <b>Céréales et produits céréaliers</b> : Pain, pâtes, riz, céréales du petit-déjeuner, quinoa, maïs.
-- <b>Légumineuses</b> : Haricots, lentilles, pois chiches, pois.
-- Fruits riches en glucides : Bananes, pommes, raisins, mangues, ananas.
-- <b>Légumes féculents</b> : Pommes de terre, patates douces, carottes, betteraves.
-- <b>Produits transformés</b> : Aliments ultra-transformés, plats préparés, charcuteries contenant des sucres ajoutés ou des agents de conservation.
-- <b>Boissons alcoolisées</b> : Bières, cocktails sucrés, vins doux.
-
-<ReturnLink />
 
 ### Thérapie {#therapie}
 Ensemble des moyens mis en œuvre pour traiter une maladie ou un trouble, dans le but de soulager les symptômes, de guérir la pathologie ou d'améliorer la qualité de vie.
