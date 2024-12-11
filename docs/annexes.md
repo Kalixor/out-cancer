@@ -44,23 +44,34 @@ Voici un tableau illustrant les valeurs du GKI en fonction de différentes conce
 | <mark>Glucose (g/L)</mark> | Glucose (mmol/L) | Cétones (mmol/L) | <mark>Cétones (mg/L)</mark> | GKI  | Cétose |
 |----------------------------|------------------|------------------|----------------------------|------|---------|
 | 1,00          | 5,5              | 0,1              | 10,5          | 55,0 | Absence |
-| 1,00          | 5,5              | 0,5              | 52,3          | 11,0 | Absence |
-| 0,90          | 5,0              | 0,5              | 52,3          | 10,0 | Absence |
-| 0,80          | 4,4              | 0,5              | 52,3          | 8,8  | Légère  |
-| 0,70          | 3,9              | 0,5              | 52,3          | 7,8  | Légère  |
-| 0,70          | 3,9              | 1,0              | 104,6         | 3,9  | Modérée |
-| 0,70          | 3,9              | 1,5              | 156,9         | 2,6  | Profonde|
-| 0,70          | 3,9              | 2,0              | 209,2         | 2,0  | Profonde|
-| 0,70          | 3,9              | 2,5              | 261,5         | 1,6  | Profonde|
-| 0,70          | 3,9              | 3,0              | 313,8         | 1,3  | Profonde|
-| 0,70          | 3,9              | 3,5              | 366,1         | 1,1  | Profonde|
-| 0,70          | 3,9              | 4,0              | 418,4         | 1,0  | Maximale|
-| 0,70          | 3,9              | 4,5              | 470,7         | 0,9  | Maximale|
-| 0,70          | 3,9              | 5,0              | 523,0         | 0,8  | Maximale|
+| 1,00          | 5,5              | 0,5              | <div class="bg-green-200/50">52,3</div> | 11,0 | Absence |
+| 0,90          | 5,0              | 0,5              | <div class="bg-green-200/50">52,3</div>          | 10,0 | Absence |
+| 0,80          | 4,4              | 0,5              | <div class="bg-green-200/50">52,3</div>          | 8,8  | Légère  |
+| 0,70          | 3,9              | 0,5              | <div class="bg-green-200/50">52,3</div>          | 7,8  | Légère  |
+| 0,70          | 3,9              | 1,0              | <div class="bg-green-200/50">104,6</div>         | 3,9  | Modérée |
+| 0,70          | 3,9              | 1,5              | <div class="bg-green-200/50">156,9</div>         | 2,6  | Profonde|
+| 0,70          | 3,9              | 2,0              | <div class="bg-green-200/50">209,2</div>         | 2,0  | Profonde|
+| 0,70          | 3,9              | 2,5              | <div class="bg-green-200/50">261,5</div>         | 1,6  | Profonde|
+| 0,70          | 3,9              | 3,0              | <div class="bg-orange-300/50">313,8</div>         | 1,3  | Profonde|
+| 0,70          | 3,9              | 3,5              | <div class="bg-red-400/50">366,1</div>         | 1,1  | Profonde|
+| 0,70          | 3,9              | 4,0              | <div class="bg-red-600/50">418,4</div>         | 1,0  | Maximale|
+| 0,70          | 3,9              | 4,5              | <div class="bg-red-600/50">470,7</div>         | 0,9  | Maximale|
+| 0,70          | 3,9              | 5,0              | <div class="bg-red-600/80">523,0</div>         | 0,8  | Maximale|
 
 Remarque : 1 g/L de glucose équivaut à environ 5,5 mmol/L.
 
 Ce tableau montre que, pour une glycémie constante de 0,70 g/L (3,9 mmol/L), l'augmentation des cétones sanguines entraîne une diminution du GKI, indiquant une cétose plus profonde. <b>Un GKI inférieur à 1 est souvent recherché dans des contextes thérapeutiques spécifiques, tels que le traitement métabolique du cancer.</b>
+
+<ReturnLink />
+
+### Concentrations de corps cétoniques {#cetone}
+
+| Plage de valeurs Cétones  | Tolérance |
+|--------------------|---------|
+| 52.3 < <span class="bg-green-200/50 text-xs">mg/L</span> < 261.5   |👍 Cétose acceptable |
+| 261.5 < <span class="bg-orange-200/50 text-xs">mg/L</span> < 313.8  |🤨 Cétose limite : Basculer le régime, 20 % Glucides - 80% Lipides |
+| 313.8 < <span class="bg-red-600/50 text-xs">mg/L</span> < 470.7  | 😯 Cétose critique : Inverser le Régime, 80 % Glucides - 20% Lipides |
+| 470.7  < <span class="bg-red-600/80 text-xs">mg/L</span> < 523.0  | ⛔ Cétose fatal : Stopper les lipides, j'usqu'à la cétose limite |
 
 Il est important de noter que ces valeurs peuvent varier selon les individus et les conditions spécifiques. Il est donc recommandé de consulter un professionnel de santé avant d'entreprendre des modifications significatives de votre régime alimentaire ou de votre métabolisme.
 

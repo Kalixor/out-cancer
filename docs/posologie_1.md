@@ -18,7 +18,7 @@
 
 <div class="bg-green-200/50 px-1 py-1">OBJECTIF :</div>
 
- Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et bascule naturelle en mode de fonctionnement <span id="cetonique-ref1">[Cétonique](/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> - Famine pour inciter l’<span id="autophagie-ref1">[Autophagie](/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) et l'<span id="apoptose-ref2">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
+ Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et bascule vers un état naturel de <span id="cetonique-ref1">[Cétose](/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> nutritionnelle - Famine pour inciter l’<span id="autophagie-ref1">[Autophagie](/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) et l'<span id="apoptose-ref2">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
 
 
 <div class="inline-block p-4 my-4 border-4 border-green-600/20 dark:border-green-200/50 rounded-lg italic text-center text-green-800 dark:text-green-200">
@@ -38,16 +38,16 @@
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Ou Jeûne hydrique souple</span> 
 - Prendre un bouillon / une soupe le soir (300 à 1 100 kcal/jour)
 
-<div class="bg-green-200/50 px-1 py-1">CONTROLE :</div>
+<div class="bg-green-200/50 px-1 py-1">CONTROLE (tous les matins) :</div>
 
 - IMC et État de fatigue du sujet (si besoin ajouter quelques protéines).
-- Prendre le pH (urinaire) en début et fin de phase.
-- Mesurer la Glycémie et la Cétonémie Cétose tous les 2 Jours (bandelettes)
-- Prendre un cliché (marqueurs) de la masse tumorale par échographie ultrason.
+- Prendre le pH (urinaire) Si en dessous de 4.5. - S’hydrater davantage.
+- Mesurer la <span id="glycemie-ref1">[Glycémie](/terminologie#glycemie){data-return="glycemie-ref1"}</span> et la <span id="cetonemie-ref1">[Cétonémie](/terminologie#cetonemie){data-return="cetonemie-ref1"}</span> (avec bandelettes) pour évaluer le <span id="gki-ref1">[GKI](/annexes#gki){data-return="gki-ref1"}</span> et les  <span id="cetone-ref1">[Corps Cétoniques](/annexes#cetone){data-return="cetone-ref1"}</span> , suivre les indications.
+- Prendre un cliché (marqueurs) de la masse tumorale (par échographie ultrason...) au début de la phase.
 
 <div class="bg-green-200/50 px-1 py-1">REGIME ALIMENTAIRE :</div>
 
-Jeûne hydrique / souple en <span id="regime-ref1">[Régime Cétogène](/annexes#regime){data-return="regime-ref1"}</span> (Cétose lègère à 8.8) <br><br>
+Jeûne hydrique / ou hydrique souple, en régime normal <br><br>
 
 <div class="custom-quote mt-2">
 <p>« La maladie, une solution biologique palliative et transitoire dominée par une source (psychique) conflictuelle active »</p>
