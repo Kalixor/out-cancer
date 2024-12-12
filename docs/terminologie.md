@@ -40,6 +40,10 @@ Etat métabolique dans lequel l'organisme, en l'absence de glucose, commence à 
 Forme de symbiose où un organisme vit à l'intérieur des cellules ou des tissus d'un autre organisme.
 <ReturnLink />
 
+### Entose {#entose}
+Phénomène où une cellule vivante en engloutit une autre, souvent observé dans les tissus tumoraux. Ce processus peut conduire à la mort de la cellule internalisée et jouer un rôle dans la progression tumorale.
+<ReturnLink />
+
 ### Fermentation {#fermentation}
 Processus métabolique par lequel les cellules produisent de l'énergie en l'absence d'oxygène (anaérobie), en dégradant des molécules organiques comme le glucose.
 <ReturnLink />  

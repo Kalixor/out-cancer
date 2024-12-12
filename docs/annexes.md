@@ -77,7 +77,45 @@ Il est important de noter que ces valeurs peuvent varier selon les individus et 
 
 <ReturnLink />
 
-## Annexe 2 : Questionnaire Psychosomatique {#psychosomatique}
+## Annexe 2 : Régime zéro glucides  {#regime_zero_carbs}
+
+Le régime zéro glucides, également appelé régime carnivore, se concentre exclusivement sur la consommation d'aliments d'origine animale, éliminant ainsi toutes les sources de glucides. Voici une liste des aliments autorisés et interdits dans ce cadre :
+
+<span class="bg-green-200/50 px-1 py-1">Aliments autorisés</span> :
+
+- Viandes : Bœuf, porc, agneau, veau, volaille (poulet, dinde, canard), gibier.
+
+- Poissons et fruits de mer : Saumon, thon, maquereau, sardines, crevettes, huîtres, moules.
+
+- Œufs : Œufs de poule, de caille, de canard.
+
+- Produits laitiers (en quantités modérées et si bien tolérés) : Fromages à pâte dure (cheddar, gouda), beurre, crème épaisse.
+
+- Graisses et huiles : Beurre, ghee, saindoux, suif, huiles de poisson.
+
+<span class="bg-red-200/50 px-1 py-1">Aliments interdits</span> :
+
+- Fruits : Tous les fruits, y compris les baies, les agrumes et les fruits tropicaux.
+
+- Légumes : Tous les légumes, qu'ils soient féculents (pommes de terre, maïs) ou non féculents (salades, brocoli).
+
+- Céréales et légumineuses : Blé, riz, avoine, maïs, quinoa, lentilles, pois chiches, haricots.
+
+- Produits sucrés : Bonbons, pâtisseries, boissons sucrées, miel, sirops.
+
+- Noix et graines : Amandes, noix, graines de chia, graines de lin.
+
+- Produits transformés contenant des glucides cachés : Sauces industrielles, charcuteries avec additifs, aliments panés.
+
+Remarques :
+
+Il est essentiel de choisir des produits animaux de haute qualité, idéalement issus de l'élevage en plein air ou nourris à l'herbe, pour maximiser l'apport en nutriments.
+
+Ce régime exclut les fibres alimentaires, ce qui peut entraîner des troubles digestifs. 
+
+<ReturnLink />
+
+## Annexe 3 : Questionnaire Psychosomatique {#psychosomatique}
 
 
 
