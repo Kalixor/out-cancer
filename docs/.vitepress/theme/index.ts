@@ -8,7 +8,7 @@ import { useNavigation } from './composables/useNavigation'
 import './styles/custom.css'
 
 export default {
-  ...DefaultTheme,
+  extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('ReturnLink', ReturnLink)
     app.component('SocialActions', SocialActions)

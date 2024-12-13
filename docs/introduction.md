@@ -42,7 +42,7 @@ C'est un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){d
 Elles prolifèrent en refusant de mourir !
 </div>
 
-<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](/terminologie#fermentation){data-return="fermentation-ref1"}</span>, une autre voie de subsistance indépendante de l'oxygène (de la <span id="respiration-ref1">[Respiration](/terminologie#respiration){data-return="respiration-ref1"}</span>).
+<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](/terminologie#fermentation){data-return="fermentation-ref1"}</span> (du sucre), une autre voie métabolique de subsistance, alternative à la <span id="respiration-ref1">[Respiration](/terminologie#respiration){data-return="respiration-ref1"}</span> (d'oxygéne) devenue défaillante.
 
 <b>Dans cette posture (de rébellion)</b>, les cellules cancéreuses s’assurent de rester insensibles à la régulation de croissance (<span id="apoptose-ref1">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref1"}</span>) administrée par l’organisme. Leurs déclencheurs d’apoptose (<span id="p53-ref1">[p53](/terminologie#P53){data-return="p53-ref1"}</span>) sont désactivés (par <span id="mutation-ref1">[Mutation Génique](/terminologie#mutation){data-return="mutation-ref1"}</span>), leur <span id="retro-ref1">[Rétro-inhibition](/terminologie#retro){data-return="retro-ref1"}</span> ne s’opère plus, leurs protéines anti-apoptotiques sont surexprimées, et leur réception des signaux de mort est rompue (par inhibiteurs et récepteurs leurres).
 
@@ -74,7 +74,7 @@ Nous disposons d’un système de survie subtilement conçu, parfaitement équip
 
 En outre, la Nature n’a certainement pas besoin de nos leçons — c’est elle qui, à maintes reprises, nous enseigne. Nos interventions, souvent guidées par nos propres perceptions, sont focalisées sur le lien causal de nos actions et leurs effets. Comme si nous en étions les réalisateurs, ce qui est faux, le maître d’œuvre c’est bien le système biologique, nous ne sommes que des utilisateurs, parfois facilitateurs, mais aussi perturbateurs (souvent à l’insu).
 
-C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès de compositions, pour induire un équilibre naturel des contextes de vie favorisant l’harmonie fonctionnelle du métabolisme et de la communication cellulaire, du système immunitaire, et de l’interconnexion des processus mentaux (psychisme).
+C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès de composés (carburants, oxydants, hormonaux,...) , pour réamorcer l'équilibre naturel des contextes de vie qui favorisera l’harmonie fonctionnelle du métabolisme et de la communication cellulaire, du système immunitaire, et de l’interconnexion des processus mentaux (psychisme).
 
 ## De la Psychosomatique à la Spiritualité {#section4} 
 

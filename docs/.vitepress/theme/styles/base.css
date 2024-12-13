@@ -1,0 +1,48 @@
+:root {
+    --vp-c-brand: #3eaf7c;
+  }
+  
+  /* Text formatting */
+  .vp-doc p {
+    text-align: justify;
+    margin: 0.8em 0;
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+    word-spacing: 0.04em;
+    hyphens: auto;
+  }
+  
+  .vp-doc h2 {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    letter-spacing: -0.02em;
+    word-spacing: 0.04em;
+    hyphens: auto;
+  }
+  
+  .vp-doc h3 {
+    margin-top: 2em;
+    margin-bottom: 1.2em;
+    letter-spacing: -0.01em;
+    word-spacing: 0.04em;
+    hyphens: auto;
+  }
+  
+  /* List spacing */
+  .vp-doc ul,
+  .vp-doc ol {
+    margin: 1.2em 0;
+    padding-left: 1.5em;
+  }
+  
+  .vp-doc li {
+    margin: 0.5em 0;
+    letter-spacing: -0.01em;
+    word-spacing: -0.05em;
+  }
+  
+  /* Section spacing */
+  .vp-doc section {
+    margin: 2em 0;
+  }

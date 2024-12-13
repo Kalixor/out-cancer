@@ -1,0 +1,90 @@
+/* Medical illustration */
+.medical-illustration {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: 2em auto;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .medical-illustration-mini {
+    float: right;
+    width: 35%;
+    height: auto;
+    margin: 0.8em 0 1.5em 1.5em;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
+    transition: box-shadow 0.3s ease;
+    clear: right;
+  }
+  
+  .medical-illustration-mini-trsp {
+    float: right;
+    width: 35%;
+    height: auto;
+    margin: 0.8em 0 1.5em 1em;
+    transition: box-shadow 0.3s ease;
+    clear: right;
+  }
+  
+  .medical-illustration:hover,
+  .medical-illustration-mini:hover {
+    box-shadow: 4px -3px 16px rgba(100, 210, 245, 0.32);
+  }
+  
+  /* Quote styling */
+  .custom-quote {
+    margin: 1.5em 0;
+    padding: 1em;
+    border-left: 4px solid var(--vp-c-brand);
+    background-color: var(--vp-c-bg-soft);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+  }
+  
+  .custom-quote p {
+    margin: 0;
+    line-height: 1.6;
+  }
+  
+  .custom-quote .attribution {
+    display: block;
+    margin-top: 0.8em;
+    font-size: 0.9em;
+    color: var(--vp-c-text-2);
+    text-align: right;
+  }
+  
+  /* Return link styling */
+  .return-link {
+    display: flex;
+    align-items: center;
+    font-size: 0.9em;
+    padding: 0 1px;
+    margin: 0 1px;
+    color: var(--vp-c-brand);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  
+  .return-link:hover {
+    background-color: var(--vp-c-brand-dimm-1);
+  }
+  
+  /* Green text */
+  .green-text {
+    color: #0c5836;
+    font-size: 1em;
+    font-weight: 500;
+    text-align: center;
+    margin: 1.5em;
+  }
+
+  .dark .green-text {
+    color: #D0FCE8;
+  }
