@@ -1,4 +1,4 @@
-![Medical Illustration](https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=1200){.medical-illustration}
+![Medical Illustration](/assets/illustre_11.jpg){.medical-illustration}
 
 <SocialActions />
 
