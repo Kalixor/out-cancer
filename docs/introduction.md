@@ -7,8 +7,9 @@
 🐣 Des solutions naturelles, pourtant simples et efficaces !
 
 <div class="custom-quote">
-<p>« La maladie provient toujours soit d'un excès, soit d'une carence, essentiellement d'un déséquilibre »</p>
-<span class="attribution">- Avicenne</span>
+<p>« les humains doivent apprendre qu'ils ne peuvent pas traiter leurs symptômes, ils
+doivent éliminer la cause de ces symptômes. Cherchez à vous libérer de la maladie. Chercher la vérité. »</p>
+<span class="attribution">- Robert Morse, ND</span>
 </div>
 
 ## Les Approches du Remède {#section1}
@@ -23,10 +24,10 @@ D'une efficacité salvatrice (dans les scénarii les plus sévère), ces démarc
 
 Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <span class="underline-text">la dissolution de l'Effet</span>, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur <span class="underline-text">la compréhension de la Cause</span> en visant sa déconstruction.
 
-En effet, rien ne prouve qu'une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés, nous devrions être en mesure de favoriser cette réversibilité. 
+En effet, rien ne prouve qu'une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés et leurs causalités, nous sommes en mesure de favoriser cette réversibilité. 
 
 <div class="glossy-highlight">
-Détruire sans prendre le temps de s'instruire n'ouvre pas la voie à la guérison... 
+Détruire le symptôme ne résout pas la maladie, juste l’illusion par le traitement perpétuel. Remonter à la cause ouvre la voie de la guérison, la réalité d’une libération authentique.
 </div>
 
 ## Mais c'est quoi le Cancer ? {#section2}
