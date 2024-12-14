@@ -61,19 +61,19 @@ Et tout ceci avec une stabilité intracellulaire (<span id="homeostasie-ref1">[H
 
  Nous sommes face à un phénomène biologique dont on ne saisit pas totalement la substance, ni la portée holistique. La technicité du Cancer nous dépasse, sa Causalité reste équivoque. Etant multifactoriel, son approche thérapeutique doit être multidimensionnelle. Etant comportemental, son remède doit être contextuel. Etant organique, son traitement doit être naturel.
 
-C’est dans cette approche (holistique et naturelle) que le protocole ci-après a été établit. En gardant à l’esprit que la Solution se trouve dans la Force et le Fonctionnement même de notre Organisme (physique et psychique) puisqu’il a su contracter la dégénérescence (probablement en réponse à un déséquilibrage multifactorielle).
+C’est dans cette approche (holistique et naturelle) que le protocole ci-après a été établit. En gardant à l’esprit que la Solution se trouve dans la Force et le Fonctionnement même de notre Organisme (physique et psychique) puisque ce dernier, ayant su contracter la dégénérescence (probablement en réponse à un déséquilibre multifactoriel), saura également la révoquer, à condition qu'on le lui permette.
 
 <div class="glossy-highlight">L’organisme est acteur de sa condition alors qu’on le considère victime passif.
 Le Cancer est un Message, pas une Punition !
 </div>
 
-L'objectif ici est de réunir les conditions naturelles optimales pour que se rétablisse l'équilibre systémique  — physique, mental et émotionnel — en adoptant le principe d'individualisation (de l’<span id="homeopathie-ref1">[Homéopathie](/terminologie#homeopathie){data-return="homeopathie-ref1"}</span>). Une réinitialisation, suivi de fins ajustements (palliatif), pour ensuite laisser l’<span id="endosymbiose-ref1">[Endosymbiose](/terminologie#endosymbiose){data-return="endosymbiose-ref1"}</span> s’accorder grâce à la puissance de la Nature.
+L'objectif ici est de réunir les conditions naturelles optimales pour que se rétablisse l'équilibre systémique  — physique, mental et émotionnel — en adoptant le principe d'individualisation (de l’<span id="homeopathie-ref1">[Homéopathie](/terminologie#homeopathie){data-return="homeopathie-ref1"}</span>). Une réinitialisation sur-mesure, suivi de fins ajustements (palliatif), pour ensuite laisser l’<span id="endosymbiose-ref1">[Endosymbiose](/terminologie#endosymbiose){data-return="endosymbiose-ref1"}</span> s’accorder grâce à la puissance de la Nature.
 
 ![Medical Illustration](/assets/illustre_8.jpg){.medical-illustration-mini}
 
 Nous disposons d’un système de survie subtilement conçu, parfaitement équipé pour évoluer dans son environnement riche et harmonieusement adapté. Ce système, capable d’autoréparation, ne demande qu’à retrouver l’intégrité de son équilibre fonctionnel pour déployer tout son potentiel.
 
-En outre, la Nature n’a certainement pas besoin de nos leçons — c’est elle qui, à maintes reprises, nous enseigne. Nos interventions, souvent guidées par nos propres perceptions, sont focalisées sur le lien causal de nos actions et leurs effets. Comme si nous en étions les réalisateurs, ce qui est faux, le maître d’œuvre c’est bien le système biologique, nous ne sommes que des utilisateurs, parfois facilitateurs, mais aussi perturbateurs (souvent à l’insu).
+En outre, la Nature n’a certainement pas besoin de nos leçons — c’est elle qui, à maintes reprises, nous enseigne. Nos interventions sont souvent motivées par une approche autoritaire et prétentieuse. Comme si nous étions les concepteurs de la mécanique du vivant, ce qui est faux, le maître d’œuvre c’est bien le système biologique, nous ne sommes que des utilisateurs honorés, parfois facilitateurs, mais aussi perturbateurs (souvent à l’insu).
 
 C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès de composés (carburants, oxydants, hormonaux,...) , pour réamorcer l'équilibre naturel des contextes de vie qui favorisera l’harmonie fonctionnelle du métabolisme et de la communication cellulaire, du système immunitaire, et de l’interconnexion des processus mentaux (psychisme).
 
