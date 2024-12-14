@@ -39,7 +39,7 @@ Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un cha
 C'est un <span id="neoplasme-ref1">[Néoplasme Malin](/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
 
 <div class="glossy-highlight">
-Elles prolifèrent en refusant de mourir !
+Des cellules qui prolifèrent et refusent de mourir !
 </div>
 
 <b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](/terminologie#fermentation){data-return="fermentation-ref1"}</span> (du sucre), une autre voie métabolique de subsistance, alternative à la <span id="respiration-ref1">[Respiration](/terminologie#respiration){data-return="respiration-ref1"}</span> (d'oxygéne) devenue défaillante.
