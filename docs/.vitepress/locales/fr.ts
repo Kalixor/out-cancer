@@ -5,7 +5,10 @@ export const frConfig = {
   themeConfig: {
     nav: [
       { text: 'Préambule', link: '/introduction' },
-      { text: 'Posologie : Phase 1', link: '/posologie_1' },
+      { text: 'Phase 1 🚩 Initialisation Cétose', link: '/posologie_0' },
+      { text: 'Phase 2 🚩 Stress Alimentaire, Famine', link: '/posologie_1' },
+      { text: 'Phase 3 🚩 Stress Oxydatif, Cytotoxicité', link: '/posologie_1' },
+      { text: 'Phase 4 🚩 Rééquilibrage, Homéostasie', link: '/posologie_1' },
       { text: 'Terminologie', link: '/terminologie' }
     ],
 
@@ -13,7 +16,10 @@ export const frConfig = {
       {
         items: [
           { text: 'Préambule', link: '/introduction' },
-          { text: 'Posologie : Phase 1', link: '/posologie_1' },
+          { text: 'Phase 1 🚩 Initialisation Cétose', link: '/posologie_0' },
+          { text: 'Phase 2 🚩 Stress Alimentaire,...', link: '/posologie_1' },
+          { text: 'Phase 3 🚩 Stress Oxydatif,...', link: '/posologie_1' },
+          { text: 'Phase 4 🚩 Rééquilibrage,...', link: '/posologie_1' },
           { text: 'Terminologie', link: '/terminologie' }
         ],
       },
