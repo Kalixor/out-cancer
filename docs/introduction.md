@@ -27,10 +27,10 @@ Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <
 En effet, rien ne prouve qu'une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés et leurs causalités, nous sommes en mesure de favoriser cette réversibilité. 
 
 <div class="glossy-highlight">
-Détruire le symptôme ne résout pas la maladie, juste l’illusion par le traitement perpétuel. Remonter à la cause ouvre la voie de la guérison, la réalité d’une libération authentique.
+Détruire le symptôme ne guérit pas la maladie, ce n’est qu’une illusion entretenue par le traitement perpétuel. En revanche, déconstruire la cause ouvre la voie à la guérison et conduit à une véritable libération.
 </div>
 
-## Mais c'est quoi le Cancer ? {#section2}
+## En fait c'est quoi le Cancer ? {#section2}
 
 ![Medical Illustration](/assets/illustre_4.webp){.medical-illustration-mini}<br><br>
 Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…
