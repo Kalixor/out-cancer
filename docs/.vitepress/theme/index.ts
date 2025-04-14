@@ -4,6 +4,7 @@ import ReturnLink from './components/ReturnLink.vue'
 import SocialActions from './components/SocialActions.vue'
 import Tooltip from './components/Tooltip.vue'
 import LanguageSwitch from './components/LanguageSwitch.vue'
+import ImcCalculator from './components/ImcCalculator.vue'
 import { useNavigation } from './composables/useNavigation'
 import './styles/custom.css'
 
@@ -14,6 +15,8 @@ export default {
     app.component('SocialActions', SocialActions)
     app.component('Tooltip', Tooltip)
     app.component('LanguageSwitch', LanguageSwitch)
+    app.component('ImcCalculator', ImcCalculator)
+
   },
   setup() {
     useNavigation()

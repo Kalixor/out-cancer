@@ -147,13 +147,19 @@ IMC= Poids (kg) / Taille (m)2
 
 | IMC (kg/m²) | Catégorie |
 |-------------|-----------|
-| < 16,5 | Dénutrition ou famine |
-| 16,5 - 18,4 | Maigreur |
-| 18,5 - 24,9 | Corpulence normale |
-| 25 - 29,9 | Surpoids |
-| 30 - 34,9 | Obésité modérée |
-| 35 - 39,9 | Obésité sévère |
-| ≥ 40 | Obésité morbide ou massive |
+| < 16,5 | <div class="bg-red-600/80">Dénutrition ou famine</div> |
+| 16,5 - 18,4 | <div class="bg-orange-300/50">Maigreur</div> |
+| 18,5 - 24,9 |  <div class="bg-green-200/50">Corpulence normale</div> |
+| 25 - 29,9 |  <div class="bg-orange-300/50">Surpoids</div> |
+| 30 - 34,9 | <div class="bg-red-400/50">Obésité modérée</div> |
+| 35 - 39,9 | <div class="bg-red-600/50">Obésité sévère</div> |
+| ≥ 40 | <div class="bg-red-600/80">Obésité morbide ou massive</div> |
+
+### Calculateur d'IMC {#ImcCalc}
+
+Vous pouvez ici calculer votre indice de masse corporelle :
+
+<ImcCalculator />
 
 <ReturnLink /> 
 

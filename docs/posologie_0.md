@@ -32,7 +32,7 @@
 <div class="bg-green-200/50 px-1 py-1">ACTIONS :</div><br>
 
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Faire un Jeûne hydrique</span> 🚿 Plus de 7 jours idéalement ou par 3 jours au minimum
-- Boire uniquement de l'eau. ⛔ <span class="text-red-300"><span id="imc-ref1">[L'IMC](/terminologie#IMC){data-return="imc-ref1"}</span> doit être supérieur à 18.5</span>
+- Boire uniquement de l'eau. ⛔ <span class="text-red-300"><span id="imc-ref1">[L'IMC](/terminologie#IMC){data-return="imc-ref1"}</span> doit être supérieur à 18.5 - Utilisez [Le Calculateur](/terminologie#ImcCalc){data-return="imc-ref1"}</span>
 
 
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Ou Jeûne hydrique souple</span> 
