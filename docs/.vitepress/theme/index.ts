@@ -5,6 +5,8 @@ import SocialActions from './components/SocialActions.vue'
 import Tooltip from './components/Tooltip.vue'
 import LanguageSwitch from './components/LanguageSwitch.vue'
 import ImcCalculator from './components/ImcCalculator.vue'
+import GkiEvaluator from './components/GkiEvaluator.vue'
+
 import { useNavigation } from './composables/useNavigation'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
@@ -20,6 +22,7 @@ export default {
     app.component('SocialActions', SocialActions)
     app.component('Tooltip', Tooltip)
     app.component('LanguageSwitch', LanguageSwitch)
+    app.component('GkiEvaluator', GkiEvaluator)
     app.component('ImcCalculator', ImcCalculator)
     app.component('FontAwesomeIcon', FontAwesomeIcon)
   },

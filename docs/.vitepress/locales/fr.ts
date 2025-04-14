@@ -10,7 +10,7 @@ export const frConfig = {
       {
         items: [
           { text: 'Préambule', link: '/introduction' },
-          { text: '🚩 Mise en Cétose', link: '/posologie_0' },
+          { text: '🚩 Détox, Cétose, et Psycho-introspection', link: '/posologie_0' },
           { text: '🚩 Stress Alimentaire,...', link: '/posologie_1' },
           { text: '🚩 Stress Oxydatif,...', link: '/posologie_1' },
           { text: '🚩 Rééquilibrage,...', link: '/posologie_1' },

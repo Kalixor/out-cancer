@@ -77,6 +77,16 @@ Il est important de noter que ces valeurs peuvent varier selon les individus et 
 
 <ReturnLink />
 
+### Evaluateur de Cétose {#gki-calc}
+
+Utilisez ce composant pour calculer votre Glucose Ketone Index (GKI) et obtenir le niveau de cétose correspondant :
+
+<GkiEvaluator />
+
+<SocialActions :showComments="false" :showReview="false" tooltipSubject="cet outil" />
+
+<ReturnLink />
+
 ## Annexe 2 : Régime zéro glucides  {#regime_zero_carbs}
 
 Le régime zéro glucides, également appelé régime carnivore, se concentre exclusivement sur la consommation d'aliments d'origine animale, éliminant ainsi toutes les sources de glucides. Voici une liste des aliments autorisés et interdits dans ce cadre :
