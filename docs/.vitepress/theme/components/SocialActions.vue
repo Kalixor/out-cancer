@@ -6,6 +6,15 @@ const likes = ref(0)
 const comments = ref(0)
 const reviews = ref(0)
 
+// Définition des props permettant de choisir quelles actions afficher et personnaliser le tooltip
+const props = defineProps({
+  showLikes: { type: Boolean, default: true },
+  showComments: { type: Boolean, default: true },
+  showShare: { type: Boolean, default: true },
+  showReview: { type: Boolean, default: true },
+  tooltipSubject: { type: String, default: "cet article" }
+})
+
 const handleLike = () => {
   likes.value++
 }
@@ -36,30 +45,30 @@ const handleShare = async () => {
 <template>
   <div class="social-actions-wrapper">
     <div class="social-actions">
-      <Tooltip text="Aimez cet article">
+      <Tooltip :text="`Aimer ${tooltipSubject}`" v-if="showLikes">
         <button @click="handleLike" class="action-button">
-          <span class="icon">♡</span>
+          <FontAwesomeIcon icon="heart" />
           <span class="count">{{ likes }}</span>
         </button>
       </Tooltip>
       
-      <Tooltip text="Laissez un commentaire">
+      <Tooltip :text="`Commenter ${tooltipSubject}`" v-if="showComments">
         <button @click="handleComment" class="action-button">
-          <span class="icon">💭</span>
+          <FontAwesomeIcon icon="comment" />
           <span class="count">{{ comments }}</span>
         </button>
       </Tooltip>
       
-      <Tooltip text="Donnez votre avis">
+      <Tooltip text="Donnez votre avis" v-if="showReview">
         <button @click="handleReview" class="action-button">
-          <span class="icon">☆</span>
+          <FontAwesomeIcon icon="coffee" />
           <span class="count">{{ reviews }}</span>
         </button>
       </Tooltip>
       
-      <Tooltip text="Partagez cet article">
+      <Tooltip :text="`Partager ${tooltipSubject}`" v-if="showShare">
         <button @click="handleShare" class="action-button">
-          <span class="icon">↗</span>
+          <FontAwesomeIcon icon="share-nodes" />
         </button>
       </Tooltip>
     </div>

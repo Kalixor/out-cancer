@@ -6,7 +6,12 @@ import Tooltip from './components/Tooltip.vue'
 import LanguageSwitch from './components/LanguageSwitch.vue'
 import ImcCalculator from './components/ImcCalculator.vue'
 import { useNavigation } from './composables/useNavigation'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import { faShareNodes, faCoffee, faHeart, faComment } from '@fortawesome/free-solid-svg-icons'
 import './styles/custom.css'
+
+library.add(faShareNodes, faCoffee, faHeart, faComment)
 
 export default {
   extends: DefaultTheme,
@@ -16,7 +21,7 @@ export default {
     app.component('Tooltip', Tooltip)
     app.component('LanguageSwitch', LanguageSwitch)
     app.component('ImcCalculator', ImcCalculator)
-
+    app.component('FontAwesomeIcon', FontAwesomeIcon)
   },
   setup() {
     useNavigation()

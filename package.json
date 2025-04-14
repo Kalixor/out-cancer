@@ -8,9 +8,14 @@
     "start": "vitepress dev docs"
   },
   "devDependencies": {
-    "vitepress": "latest",
-    "tailwindcss": "^3.3.3",
+    "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
-    "autoprefixer": "^10.4.16"
+    "tailwindcss": "^3.3.3",
+    "vitepress": "latest"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8"
   }
 }

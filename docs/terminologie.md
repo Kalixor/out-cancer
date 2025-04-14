@@ -161,6 +161,8 @@ Vous pouvez ici calculer votre indice de masse corporelle :
 
 <ImcCalculator />
 
+<SocialActions :showComments="false" :showReview="false" tooltipSubject="cet outil" />
+
 <ReturnLink /> 
 
 ### IRM
