@@ -3,10 +3,7 @@ export const enConfig = {
   description: 'Natural solutions for cancer treatment',
 
   themeConfig: {
-    nav: [
-      { text: 'Introduction', link: '/en/introduction' },
-      { text: 'Dosage: Phase 1', link: '/en/posologie_1' },
-      { text: 'Terminology', link: '/en/terminologie' }
+    nav: [     
     ],
 
     sidebar: [

@@ -4,10 +4,7 @@ export const arConfig = {
 
   themeConfig: {
     nav: [
-      { text: 'مقدمة', link: '/ar/introduction' },
-      { text: 'الجرعات: المرحلة 1', link: '/ar/posologie_1' },
-      { text: 'المصطلحات', link: '/ar/terminologie' }
-    ],
+         ],
 
     sidebar: [
       {
