@@ -10,10 +10,10 @@ export const frConfig = {
       {
         items: [
           { text: 'Préambule', link: '/introduction' },
-          { text: 'Phase 1 🚩 Initialisation Cétose', link: '/posologie_0' },
-          { text: 'Phase 2 🚩 Stress Alimentaire,...', link: '/posologie_1' },
-          { text: 'Phase 3 🚩 Stress Oxydatif,...', link: '/posologie_1' },
-          { text: 'Phase 4 🚩 Rééquilibrage,...', link: '/posologie_1' },
+          { text: '🚩 Mise en Cétose', link: '/posologie_0' },
+          { text: '🚩 Stress Alimentaire,...', link: '/posologie_1' },
+          { text: '🚩 Stress Oxydatif,...', link: '/posologie_1' },
+          { text: '🚩 Rééquilibrage,...', link: '/posologie_1' },
           { text: 'Terminologie', link: '/terminologie' }
         ],
       },

@@ -78,5 +78,3 @@ Introspection psychosomatique, mise en conscience des facteurs psychologiques ou
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Faire un examen psychosomatique</span> 🧠 En quelques séances
 
  - Répondre au <span id="regime-ref1">[Questionnaire Psychosomatique](/terminologie#regime){data-return="regime-ref1"}</span> (faisable à distance)
-
-
