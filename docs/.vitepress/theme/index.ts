@@ -6,6 +6,7 @@ import Tooltip from './components/Tooltip.vue'
 import LanguageSwitch from './components/LanguageSwitch.vue'
 import ImcCalculator from './components/ImcCalculator.vue'
 import GkiEvaluator from './components/GkiEvaluator.vue'
+import CommentSection from './components/CommentSection.vue'
 
 import { useNavigation } from './composables/useNavigation'
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -25,6 +26,7 @@ export default {
     app.component('GkiEvaluator', GkiEvaluator)
     app.component('ImcCalculator', ImcCalculator)
     app.component('FontAwesomeIcon', FontAwesomeIcon)
+    app.component('CommentSection', CommentSection)
   },
   setup() {
     useNavigation()

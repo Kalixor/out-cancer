@@ -1,9 +1,24 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import Tooltip from './Tooltip.vue'
 
+
+// Exemple dans SocialActions.vue (script setup ou méthode)
+const fetchCommentsCount = async () => {
+  try {
+    const response = await fetch('http://localhost:3001/api/comments/count');
+    const data = await response.json();
+    // Mettre à jour votre état avec data.count
+    return data.count;
+  } catch (error) {
+    console.error(error);
+    return 0;
+  }
+};
+
 const likes = ref(0)
-const comments = ref(0)
+// Initialisation de la ref avec une valeur par défaut
+const comments = ref<number>(0);
 const reviews = ref(0)
 
 // Définition des props permettant de choisir quelles actions afficher et personnaliser le tooltip
@@ -20,7 +35,6 @@ const handleLike = () => {
 }
 
 const handleComment = () => {
-  comments.value++
 }
 
 const handleReview = () => {
@@ -40,6 +54,13 @@ const handleShare = async () => {
     }
   }
 }
+
+
+// Au montage, on met à jour la valeur avec le résultat de la promesse
+onMounted(async () => {
+  comments.value = await fetchCommentsCount();
+});
+
 </script>
 
 <template>

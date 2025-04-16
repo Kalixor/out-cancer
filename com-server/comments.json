@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "count": 3
+  },
+  "comments": [
+    {
+      "pseudo": "toto",
+      "text": "super",
+      "date": "2025-04-16T11:32:18.874Z"
+    },
+    {
+      "pseudo": "arthur",
+      "text": "franchement c'est top !",
+      "date": "2025-04-16T11:39:06.752Z"
+    },
+    {
+      "pseudo": "art",
+      "text": "c'est fou",
+      "date": "2025-04-16T11:45:09.023Z"
+    }
+  ]
+}
