@@ -1,0 +1,2 @@
+npm run start
+/com-server/ node ./comServer

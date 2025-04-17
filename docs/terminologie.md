@@ -54,7 +54,11 @@ Concentration de glucose (sucre) dans le sang, essentielle pour fournir de l'én
 
 ### Homéopathie {#homeopathie}
 Médecine alternative qui stipule qu’une substance provoquant des symptômes chez un individu sain peut, à dose très diluée, traiter ces mêmes symptômes chez une personne malade (principe de similitude : "les semblables sont guéris par les semblables") - Utilisé pour stimuler les mécanismes naturels de guérison.
-<ReturnLink /> 
+<ReturnLink />
+
+### Psychosomatique {#psychosomatique}
+ la psychosomatique étudie l'impact de l'état psychologique sur le fonctionnement corporel, reconnaissant que les troubles physiques peuvent avoir des origines psychiques. 
+<ReturnLink />
 
 ### Principe d'individualisation {#individualisation}
 L'homéopathie considère chaque patient dans sa globalité, en tenant compte de ses symptômes physiques, mentaux et émotionnels. Le traitement est donc personnalisé en fonction des caractéristiques spécifiques de l'individu.
@@ -111,7 +115,6 @@ Processus métabolique par lequel les cellules transforment les nutriments, prin
 ### Rétro-inhibition {#retro}
 Mécanisme de régulation métabolique où le produit final d'une voie enzymatique inhibe une enzyme impliquée dans sa propre synthèse, souvent la première de la chaîne, afin de maintenir l'homéostasie et prévenir la surproduction de ce produit.
 <ReturnLink />
-
 
 ### Thérapie {#therapie}
 Ensemble des moyens mis en œuvre pour traiter une maladie ou un trouble, dans le but de soulager les symptômes, de guérir la pathologie ou d'améliorer la qualité de vie.

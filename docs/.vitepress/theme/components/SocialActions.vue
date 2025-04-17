@@ -74,7 +74,7 @@ onMounted(async () => {
       </Tooltip>
       
       <Tooltip :text="`Commenter ${tooltipSubject}`" v-if="showComments">
-        <button @click="handleComment" class="action-button">
+        <button disabled class="action-button">
           <FontAwesomeIcon icon="comment" />
           <span class="count">{{ comments }}</span>
         </button>

@@ -105,6 +105,8 @@ const addComment = async () => {
 <style scoped>
 .comment-section {
   border: 1px solid #ccc;
+  box-shadow: 2px -2px 12px #64d2f552;
+  transition: box-shadow 0.3s ease;
   padding: 1rem;
   border-radius: 4px;
   margin-top: 2rem;
@@ -162,7 +164,7 @@ const addComment = async () => {
 .btn.submit-btn {
   align-self: flex-end;
   padding: 0.5rem 1rem;
-  background-color: #60a5fa;
+  background-color: #64d2f552;
   color: #fff;
   border: none;
   border-radius: 4px;

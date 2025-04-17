@@ -9,10 +9,10 @@ export const frConfig = {
     sidebar: [
       {
         items: [
-          { text: 'Préambule', link: '/introduction' },
-          { text: '🚩 Détox, Cétose, et Psycho-introspection', link: '/posologie_0' },
-          { text: '🚩 Stress Alimentaire,...', link: '/posologie_1' },
-          { text: '🚩 Stress Oxydatif,...', link: '/posologie_1' },
+          { text: 'Préambule du Protocole', link: '/introduction' },
+          { text: '1 🚩 Détox, Cétose, et Psycho-introspection', link: '/posologie_0' },
+          { text: '2 🚩 Stress Alimentaire,...', link: '/posologie_1' },
+          { text: '3 🚩 Stress Oxydatif,...', link: '/posologie_1' },
           { text: '🚩 Rééquilibrage,...', link: '/posologie_1' },
           { text: 'Terminologie', link: '/terminologie' }
         ],
