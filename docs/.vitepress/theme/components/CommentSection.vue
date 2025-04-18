@@ -1,6 +1,8 @@
 <template>
   <div class="comment-section">
-    <h2>Commentaires</h2>
+    <h2 class="mb-4 text-black dark:text-white dark:shadow-[-1px_-1px_0_#64d2f552,1px_-1px_0_#64d2f552,-1px_1px_0_#64d2f552,1px_1px_0_#64d2f552]">
+      Commentaires
+    </h2>
 
     <!-- Liste des commentaires -->
     <div v-if="comments.length" class="comments-list">
@@ -31,7 +33,7 @@
         required
         class="comment-input text-input"
       ></textarea>
-      <button type="submit" class="btn submit-btn">Envoyer</button>
+      <button type="submit" class="text-black dark:text-white btn submit-btn">Envoyer</button>
     </form>
   </div>
 </template>
@@ -112,9 +114,15 @@ const addComment = async () => {
   margin-top: 2rem;
 }
 
-.comment-section h2 {
+/* .comment-section h2 {
   margin-bottom: 1rem;
-}
+  color: #fff;
+  text-shadow:
+    -1px -1px 0 #64d2f552,
+     1px -1px 0 #64d2f552,
+    -1px  1px 0 #64d2f552,
+     1px  1px 0 #64d2f552;
+} */
 
 .comments-list {
   margin-bottom: 1rem;
@@ -122,7 +130,8 @@ const addComment = async () => {
 
 .comment {
   padding: 0.5rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #64d2f582;
+  /* box-shadow: 0 2px 4px #64d2f580; */
 }
 
 .comment-header {
@@ -165,7 +174,7 @@ const addComment = async () => {
   align-self: flex-end;
   padding: 0.5rem 1rem;
   background-color: #64d2f552;
-  color: #fff;
+  /* color: #fff; */
   border: none;
   border-radius: 4px;
   cursor: pointer;
