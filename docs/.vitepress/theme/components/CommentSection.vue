@@ -130,7 +130,7 @@ const addComment = async () => {
 
 .comment {
   padding: 0.5rem;
-  border-bottom: 1px solid #64d2f582;
+  border-bottom: 1px solid #64d2f532;
   /* box-shadow: 0 2px 4px #64d2f580; */
 }
 

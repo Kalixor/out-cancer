@@ -17,7 +17,7 @@ import './styles/custom.css'
 library.add(faShareNodes, faCoffee, faHeart, faComment)
 
 export default {
-  extends: DefaultTheme,
+  ...DefaultTheme,
   enhanceApp({ app }) {
     app.component('ReturnLink', ReturnLink)
     app.component('SocialActions', SocialActions)

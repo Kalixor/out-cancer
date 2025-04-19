@@ -1,11 +1,70 @@
 :root {
     --vp-c-brand: #3eaf7c;
   }
+
+/* .vitepress/theme/custom.css */
+
+/* 1) Zero out the horizontal gutters */
+:root {
+  /* was 24px (mobile) → 32px (desktop) */
+  --vp-content-offset: 0px;      
+}
+
+/* 1. Largeur de la sidebar (par défaut 240px) */
+/* :root {
+  --vp-sidebar-width: 380px;
+} */
+
+/* 2) Let the doc fill the full width */
+:root {
+  /* was ~1136px */
+  --vp-doc-max-width: 100%;      
+}
+
+/* 3) (Optional) if you want the entire layout to span the full viewport */
+html, body, .vitepress, .vp-layout {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+/* 4) Kill any residual padding on sidebar and doc containers */
+.vp-sidebar, 
+.vp-doc {
+  padding: 0 !important;
+  margin: 0.8em -2em;
+}
+
+/* 5) If you still see an inner `.container`, flush its sides too */
+.vp-doc .container {
+  margin-inline: 0 !important;
+  padding-inline: 0 !important;
+  max-width: none !important;
+}
+
+
+/* top‑level links keep the normal gutter */
+.VPSidebarItem.level-0 .VPLink {
+  padding-inline-start: var(--vp-content-offset);
+}
+
+/* indent all first‑level children (level‑1) by +2rem */
+.VPSidebarItem.level-1 .VPLink {
+  padding-inline-start: calc(var(--vp-content-offset) + 1rem);
+}
+
+/* indent second‑level children (level‑2) by +3rem */
+.VPSidebarItem.level-2 .VPLink {
+  padding-inline-start: calc(var(--vp-content-offset) + 2rem);
+}
+
+
+  
   
   /* Text formatting */
   .vp-doc p {
     text-align: justify;
-    margin: 0.8em 0;
+    margin: 0.8em;
     margin-bottom: 0.5em;
     line-height: 1.6;
     letter-spacing: -0.01em;
@@ -44,5 +103,19 @@
   
   /* Section spacing */
   .vp-doc section {
-    margin: 2em 0;
+    margin: 1em;
   }
+
+  .return-link {
+    font-size: 0.9em;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: var(--vp-c-brand-dimm);
+    transition: background-color 0.2s;
+  }
+  
+  .return-link:hover {
+    background-color: var(--vp-c-brand-light);
+  }
+  
+  

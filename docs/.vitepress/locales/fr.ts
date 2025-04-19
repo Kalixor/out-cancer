@@ -1,23 +1,74 @@
 export const frConfig = {
-  title: 'Thérapeutique du Cancer',
-  description: 'Solutions naturelles pour le traitement du cancer',
+  title: 'LibertyNa',
+  description: 'Des Solutions naturelles pour le traitement du cancer',
 
   themeConfig: {
     nav: [
-    ],
-
-    sidebar: [
+      { text: 'Accueil', link: '/' },
       {
-        items: [
-          { text: 'Préambule du Protocole', link: '/introduction' },
-          { text: '1 🚩 Détox, Cétose, et Psycho-introspection', link: '/posologie_0' },
-          { text: '2 🚩 Stress Alimentaire,...', link: '/posologie_1' },
-          { text: '3 🚩 Stress Oxydatif,...', link: '/posologie_1' },
-          { text: '🚩 Rééquilibrage,...', link: '/posologie_1' },
-          { text: 'Terminologie', link: '/terminologie' }
-        ],
+        text: 'Santé',
+        link: '/fr/sante/introduction/',
+        activeMatch: '^/fr/sante/'
+        
       },
+      {
+        text: 'Foi',
+        link: '/fr/foi/',
+        activeMatch: '^/fr/foi/'
+      }
     ],
+  
+    sidebar: {
+      // quand l'URL commence par /fr/sante/
+      '/fr/sante/': [
+        {
+          text: '🥦 Thérapeutique du Cancer',
+          link: '/fr/sante/introduction/',
+          items: [
+            {
+              text: '🖋️ Préambule du Protocole',
+              link: '/fr/sante/introduction/'   // notez le slash final
+            },
+            {
+              text: '🚩Détox, Cétose, Psycho...',
+              link: '/fr/sante/posologie_0'
+            }
+            // … autres pages santé
+          ]
+        },
+        {
+          text: '🥦 Solution à la psychose',
+          items: [
+            {
+              text: '🖋️ Préambule du Protocole',
+              link: '/fr/sante/introduction/'   // notez le slash final
+            },
+            {
+              text: '🚩Détox, Cétose, Psycho...',
+              link: '/fr/sante/posologie_0'
+            }
+            // … autres pages santé
+          ]
+        }
+      ],
+
+      '/fr/foi/': [
+        {
+          text: 'Foi',
+          items: [
+            {
+              text: "Fondements de l'idéologie",
+              link: '/fr/sante/introduction/'   // notez le slash final
+            },
+            {
+              text: '🚩Détox, Cétose, Psycho...',
+              link: '/fr/sante/posologie_0'
+            }
+            // … autres pages santé
+          ]
+        }
+      ]
+    },
 
     docFooter: {
       prev: 'Page précédente',
