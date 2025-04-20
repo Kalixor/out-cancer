@@ -9,6 +9,7 @@ import GkiEvaluator from './components/GkiEvaluator.vue'
 import CommentSection from './components/CommentSection.vue'
 
 import { useNavigation } from './composables/useNavigation'
+import '@fortawesome/fontawesome-free/css/all.css'   // ← load the <i> tags
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faShareNodes, faCoffee, faHeart, faComment } from '@fortawesome/free-solid-svg-icons'

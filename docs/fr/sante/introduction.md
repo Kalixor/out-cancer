@@ -26,24 +26,35 @@ Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <
 
 En effet, rien ne prouve qu'une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés et leurs causalités, nous sommes en mesure de favoriser cette réversibilité. 
 
-<div class="glossy-highlight">
+<div class="warn-box">
+  <i class="fa-solid fa-triangle-exclamation warn-icon"></i>
+  <div class="warn-text">
 Détruire le symptôme ne guérit pas la maladie, ce n’est qu’une illusion entretenue par le traitement perpétuel. En revanche, déconstruire la cause ouvre la voie à la guérison et conduit à une véritable libération.
+</div>
 </div>
 
 ## En fait c'est quoi le Cancer ? {#section2}
 
-![Medical Illustration](/assets/illustre_4.webp){.medical-illustration-mini}<br><br>
-Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…
+![Medical Illustration](/assets/illustre_4.webp){.medical-illustration-mini}
+Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…<br><br>
 
-<div class="green-text">Le Cancer est un dérèglement du comportement cellulaire</div>
+<div class="info-box">
+  <i class="fa-solid fa-info-circle info-icon"></i>
+  <div class="info-text">
+    Le Cancer est un dérèglement du comportement cellulaire
+  </div>
+</div>
 
 C'est un <span id="neoplasme-ref1">[Néoplasme Malin](fr/sante/terminologie#neoplasme){data-return="neoplasme-ref1"}</span> où les Cellules Tumorales dégénèrent ;
 
-<div class="glossy-highlight">
+<div class="see-box">
+  <i class="fa-solid fa-eye see-icon"></i>
+  <div class="see-text">
 Des cellules qui prolifèrent en refusant de mourir !
 </div>
+</div>
 
-<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](fr/sante/terminologie#fermentation){data-return="fermentation-ref1"}</span> (du sucre), une autre voie métabolique de subsistance, alternative à la <span id="respiration-ref1">[Respiration](fr/sante/terminologie#respiration){data-return="respiration-ref1"}</span> (d'oxygéne) devenue défaillante.
+<b>Du coup</b>, elles adoptent un mode de vie dégradé pour se conserver face aux situations les plus rudes. Une vraie stratégie systémique qui opte pour la <span id="fermentation-ref1">[Fermentation](fr/sante/terminologie#fermentation){data-return="fermentation-ref1"}</span> (du sucre), une autre voie métabolique de subsistance (d'urgence), alternative à la <span id="respiration-ref1">[Respiration](fr/sante/terminologie#respiration){data-return="respiration-ref1"}</span> (d'oxygéne) devenue défaillante.
 
 <b>Dans cette posture (de rébellion)</b>, les cellules cancéreuses s’assurent de rester insensibles à la régulation de croissance (<span id="apoptose-ref1">[Apoptose](fr/sante/terminologie#apoptose){data-return="apoptose-ref1"}</span>) administrée par l’organisme. Leurs déclencheurs d’apoptose (<span id="p53-ref1">[p53](fr/sante/terminologie#P53){data-return="p53-ref1"}</span>) sont désactivés (par <span id="mutation-ref1">[Mutation Génique](fr/sante/terminologie#mutation){data-return="mutation-ref1"}</span>), leur <span id="retro-ref1">[Rétro-inhibition](fr/sante/terminologie#retro){data-return="retro-ref1"}</span> ne s’opère plus, leurs protéines anti-apoptotiques sont surexprimées, et leur réception des signaux de mort est rompue (par inhibiteurs et récepteurs leurres).
 
@@ -63,8 +74,12 @@ Et tout ceci avec une stabilité intracellulaire (<span id="homeostasie-ref1">[H
 
 C’est dans cette approche (holistique et naturelle) que le protocole ci-après a été établit. En gardant à l’esprit que la Solution se trouve dans la Force et le Fonctionnement même de notre Organisme (physique et psychique) puisque ce dernier, ayant su contracter la dégénérescence (probablement en réponse à un déséquilibre multifactoriel), saura également la révoquer, à condition qu'on le lui permette.
 
-<div class="glossy-highlight">L’organisme est acteur de sa condition alors qu’on le considère victime passif.
+<div class="info-box">
+  <i class="fa-solid fa-info-circle info-icon"></i>
+  <div class="info-text">
+  L’organisme est acteur de sa condition alors qu’on le considère victime passif.
 Le Cancer est un Message, pas une Punition !
+</div>
 </div>
 
 L'objectif ici est de réunir les conditions naturelles optimales pour que se rétablisse l'équilibre systémique  — physique, mental et émotionnel — en adoptant le principe d'individualisation (de l’<span id="homeopathie-ref1">[Homéopathie](fr/sante/terminologie#homeopathie){data-return="homeopathie-ref1"}</span>). Une réinitialisation sur-mesure, suivi de fins ajustements (palliatif), pour ensuite laisser l’<span id="endosymbiose-ref1">[Endosymbiose](fr/sante/terminologie#endosymbiose){data-return="endosymbiose-ref1"}</span> s’accorder grâce à la puissance de la Nature.
@@ -81,7 +96,12 @@ C’est pourquoi, il s’agit ici d’un ajustement fin entre manque et excès d
 
   Si le facteur <span id="psy-ref2">[Psychosomatique](fr/sante/terminologie#psychosomatique){data-return="psy-ref2"}</span> est tangible (nous le verrons), la démarche spirituelle n’est pas à négliger, chacun selon ses moyens, via la captation d’une vibration (résonnance) énergétique positive, apaisante et dissipatrice. C’est primordial car il s’est avéré que toutes les maladies présentent <span class="underline-text">un excès d’électrons</span> (de surcroit les tumeurs cancéreuses) induisant de la <span id="biosynthese-ref2">[Biosynthèse](fr/sante/terminologie#biosynthese){data-return="biosynthese-ref2"}</span> excédentaire et futile. Ce court-circuit spirituel, bien qu’immatérielle (à notre échelle), est tangible et assainissant. Une connexion verticale transcendante (du Vivant à la Source), qui soit responsable et fluide, plutôt qu'uniquement horizontale (du Patient au Praticien), souvent marquée par l'irresponsabilité et la variabilité.
   
-<div class="glossy-highlight">Il est temps de se prendre en charge, de renouer la confiance en la synergie du corps et de l’esprit, d’une puissance bien insoupçonnée.</div>
+<div class="see-box">
+  <i class="fa-solid fa-eye see-icon"></i>
+  <div class="see-text">
+  Il est temps de se prendre en charge, de renouer la confiance en la synergie du corps et de l’esprit, d’une puissance bien insoupçonnée.
+  </div>
+    </div>
 
 ![Medical Illustration](/assets/illustre_7.webp){.medical-illustration-mini}
 

@@ -32,7 +32,7 @@ html, body, .vitepress, .vp-layout {
 .vp-sidebar, 
 .vp-doc {
   padding: 0 !important;
-  margin: 0.8em -2em;
+  margin: 0.8em -1em;
 }
 
 /* 5) If you still see an inner `.container`, flush its sides too */
@@ -57,9 +57,6 @@ html, body, .vitepress, .vp-layout {
 .VPSidebarItem.level-2 .VPLink {
   padding-inline-start: calc(var(--vp-content-offset) + 2rem);
 }
-
-
-  
   
   /* Text formatting */
   .vp-doc p {
@@ -72,9 +69,34 @@ html, body, .vitepress, .vp-layout {
     hyphens: auto;
   }
   
+  /* Default h1 for desktop (optional) */
+  .vp-doc h1 {
+    font-size: 2.5rem; /* whatever you like */
+  }
+
+  /* Mobile: screen narrower than 640px */
+  @media (max-width: 640px) {
+
+    .vp-doc p {
+      font-size: .9rem; /* whatever you like */
+      line-height: 1.4;
+      letter-spacing: -0.01em;
+      word-spacing: 0.04em;
+    }
+    .vp-doc h1 {
+      font-size: 1.3rem; /* smaller for mobile */
+      line-height: 1.6;
+      margin-left: 0.75rem;
+    }
+    .vp-doc h2 {
+      font-size: 1.1rem; /* smaller for mobile */
+      margin-left: 0.75rem;
+    }
+  }
+
   .vp-doc h2 {
     margin-top: 2em;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
     letter-spacing: -0.02em;
     word-spacing: 0.04em;
     hyphens: auto;
@@ -117,5 +139,4 @@ html, body, .vitepress, .vp-layout {
   .return-link:hover {
     background-color: var(--vp-c-brand-light);
   }
-  
   

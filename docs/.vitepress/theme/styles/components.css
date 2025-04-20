@@ -1,9 +1,9 @@
 /* Medical illustration */
-.medical-illustration {
+  .medical-illustration {
     display: block;
-    width: 80%;
+    width: 100%;
     height: auto;
-    margin: 2em auto;
+    margin: 1em auto;
     border-radius: 8px;
     object-fit: cover;
     box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
@@ -14,7 +14,7 @@
     float: right;
     width: 35%;
     height: auto;
-    margin: 0.8em 0 1.5em 1.5em;
+    margin: 0.1em .4em .2em 1.5em;
     border-radius: 8px;
     object-fit: cover;
     box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
@@ -54,7 +54,7 @@
   .custom-quote .attribution {
     display: block;
     margin-top: 0.8em;
-    font-size: 0.9em;
+    font-size: 0.7em;
     color: var(--vp-c-text-2);
     text-align: right;
   }
@@ -88,3 +88,115 @@
   .dark .green-text {
     color: #D0FCE8;
   }
+
+  /* === Info box with icon + justified text === */
+.info-box {
+  display: flex;
+  align-items: flex-start;       /* icon on first line top-aligned */
+  background-color: #0f172a62;
+  border: 1px solid #3ea1ff92;
+  color: #b6e0f3;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+
+/* icon cell */
+.info-box .info-icon {
+  flex: none;
+  margin-right: 0.75rem;         /* space between icon and text */
+  margin-top: 0.25rem;           /* adjust so icon vertically aligns nicely */
+  font-size: 1.25rem;            /* size of the icon */
+}
+
+/* text cell: take remaining width and justify */
+.info-box .info-text {
+  flex: 1;
+  text-align: justify;
+}
+
+/* === Warning box with icon + justified text === */
+.warn-box {
+  display: flex;
+  align-items: flex-start;
+  background-color: #1f293742;         /* dark gray background */
+  border: 1px solid #fdbe5062;         /* amber‑500 border */
+  color: #e0c33d;                    /* amber‑400 text */
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+
+/* icon cell */
+.warn-box .warn-icon {
+  flex: none;
+  margin-right: 0.75rem;
+  margin-top: 0.25rem;
+  font-size: 1.25rem;
+}
+
+/* text cell */
+.warn-box .warn-text {
+  flex: 1;
+  text-align: justify;
+}
+
+
+.see-box {
+  display: flex;
+  align-items: flex-start;
+  background-color: #1f293742;      /* bright yellow */
+  border: 1px solid #96f77993;      /* deeper amber border */
+  color: #96f779d0;                 /* white text */
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+
+/* icon cell */
+.see-box .see-icon {
+  flex: none;
+  margin-right: 0.75rem;
+  margin-top: 0.25rem;
+  font-size: 1.25rem;
+  /* color: #ffffff;                 ensure the eye is white */
+}
+
+/* text cell */
+.see-box .see-text {
+  flex: 1;
+  text-align: justify;
+}
+
+@media (max-width: 640px) {
+
+  .info-box {
+    font-size: .9rem;
+    margin: 1.5rem .8em .8em;
+    padding: .8rem;
+
+  }
+  .info-box .info-text {
+    text-align:start;
+  }
+  .warn-box {
+    font-size: .9rem;
+    margin: 1.5rem .8em .8em;
+  }
+  .warn-box .warn-text {
+    text-align:start;
+  }
+  .see-box {
+    font-size: .9rem;
+    margin: 1.5rem .8em .8em;
+    padding: .8rem;
+
+  }
+  .see-box .see-text {
+    text-align:start;
+  }
+
+}
