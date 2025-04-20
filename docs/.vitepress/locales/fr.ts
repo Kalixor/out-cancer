@@ -4,7 +4,7 @@ export const frConfig = {
 
   themeConfig: {
     nav: [
-      { text: 'Accueil', link: '/' },
+      { text: 'Accueil', link: '/fr/' },
       {
         text: 'Santé',
         link: '/fr/sante/introduction/',
@@ -21,15 +21,23 @@ export const frConfig = {
     sidebar: {
       '/fr/sante/': [
         {
-          text: 'Santé',
+          text: 'SANTÉ',
           link: '/fr/sante',
+          activeMatch: '^/fr/sante/',
+
           items: [
             {
-              text: '🥦 Thérapie du Cancer',
+              text: '🥦 THÉRAPIE DU CANCER',
               link: '/fr/sante/introduction/',
+              activeMatch: '^/fr/sante/introduction',
+
               items: [ {
-                text: '🚩 Détox, et Psycho…',
+                text: '🚩 Détox et Psycho…',
                 link: '/fr/sante/posologie_0'
+              },
+              {
+                text: '🚩 Diète oxydative',
+                link: '/fr/sante/posologie_1'
               }],
             },
            
@@ -39,8 +47,8 @@ export const frConfig = {
               // si vous voulez un sous‑niveau, vous pouvez ajouter un `items` ici
               items: [
                 {
-                  text: '🚩Phase 1 – Détox, Cétose',
-                  link: '/fr/sante/posologie_0'
+                  text: '🚩Les frustrations',
+                  link: '/fr/sante/posologie_3'
                 }
               ]
             }

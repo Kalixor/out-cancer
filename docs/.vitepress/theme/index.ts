@@ -21,6 +21,12 @@ library.add(faShareNodes, faCoffee, faHeart, faComment)
 export default {
   ...DefaultTheme,
   enhanceApp({ app }) {
+
+    //  // 1) First call the default theme's enhanceApp (so you don't lose its behavior)
+    //  if (DefaultTheme.enhanceApp) {
+    //   DefaultTheme.enhanceApp({ app, router })
+    // }
+
     app.component('ReturnLink', ReturnLink)
     app.component('SocialActions', SocialActions)
     app.component('Tooltip', Tooltip)
@@ -30,6 +36,9 @@ export default {
     app.component('FontAwesomeIcon', FontAwesomeIcon)
     app.component('CommentSection', CommentSection)
     app.component('LinkButton', LinkButton)
+
+
+    
   },
   setup() {
     useNavigation()
@@ -38,5 +47,5 @@ export default {
     return h(DefaultTheme.Layout, null, {
       'nav-bar-content-before': () => h(LanguageSwitch)
     })
-  }
+  },
 }

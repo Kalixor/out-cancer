@@ -9,7 +9,7 @@
 <div class="custom-quote">
 <p>« les humains doivent apprendre qu'ils ne peuvent pas traiter leurs symptômes, ils
 doivent éliminer la cause de ces symptômes. Cherchez à vous libérer de la maladie. Chercher la vérité. »</p>
-<span class="attribution">- Robert Morse, ND</span>
+<span class="attribution">- Robert Morse, Naturopathe</span>
 </div>
 
 ## Les Approches du Remède {#section1}

@@ -1,6 +1,6 @@
 ![Medical Illustration](/assets/illustre_10.jpg){.medical-illustration}
 
-<SocialActions />
+<SocialActions :showComments="false" :showReview="false" />
 
 # Cancer : 🎗 Posologie phase 1
 
@@ -21,12 +21,10 @@
  Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et amorce d'un état naturel de <span id="cetonique-ref1">[Cétose](/fr/sante/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> nutritionnelle - Famine pour inciter le cannibalisme cellulaire; <span id="autophagie-ref1">[Autophagie](/fr/sante/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) plus <span id="entose-ref2">[Entose](/fr/sante/terminologie#entose){data-return="entose-ref2"}</span>, ainsi que l'<span id="apoptose-ref2">[Apoptose](/fr/sante/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
 
 
-<div class="inline-block p-4 my-4 border-4 border-green-600/20 dark:border-green-200/50 rounded-lg italic text-center text-green-800 dark:text-green-200">
-  <div class="prose dark:prose-invert">
-<b>💡 Note explicative !</b> : L’induction d’un stress alimentaire (par le jeûne extrême) module les comportements cellulaires, le corps bascule dans un mode de survie pragmatique. La rareté des nutriments contraint les cellules à partager, à prioriser, elles ont maintenant le temps de se réorganiser. De grands recyclages (phagocytose, autophagie) s’opèrent qui font office de détoxification. Du cannibalisme (entose des cellules tumorales) a lieu pour la survie des cellules primordiales et saines. La biosynthèse rétrograde par manque d’apport énergétique. La régénération cellulaire n’est plus <span class="underline-text">quantitative</span> (cadence diminuée), et devient <span class="underline-text">qualitative</span> (les portées sont optimisées sur la disponibilité et le besoin en exploitation), en gros on fait moins vite, et bien mieux... 
+<div class="inline-block p-4 my-4 text-sm md:text-base border-4 border-green-600/20 dark:border-green-200/50 rounded-lg italic text-center text-green-800 dark:text-green-200">
+💡<b>Note explicative !</b> : L’induction d’un stress alimentaire (par le jeûne extrême) module les comportements cellulaires, le corps bascule dans un mode de survie pragmatique. La rareté des nutriments contraint les cellules à partager, à prioriser, elles ont maintenant le temps de se réorganiser. De grands recyclages (phagocytose, autophagie) s’opèrent qui font office de détoxification. Du cannibalisme (entose des cellules tumorales) a lieu pour la survie des cellules primordiales et saines. La biosynthèse rétrograde par manque d’apport énergétique. La régénération cellulaire n’est plus <span class="underline-text">quantitative</span> (cadence diminuée), et devient <span class="underline-text">qualitative</span> (les portées sont optimisées sur la disponibilité et le besoin en exploitation), en gros on fait moins vite, et bien mieux... 
 
 <b>Toutes ces nouvelles dispositions sont bouleversantes pour la tumeur cancéreuse, en contribuant sans retenu à <span class="underline-text">son affaiblissement progressif</span> (par pénurie) et à <span class="underline-text">la réduction de son volume</span> (par cannibalisme autophagique).</b>
-  </div>
 </div>
 
 <div class="bg-green-200/50 px-1 py-1">ACTIONS :</div><br>
@@ -65,12 +63,10 @@ Jeûne hydrique / ou hydrique souple, en régime normal <br><br>
 
 Introspection psychosomatique, mise en conscience des facteurs psychologiques ou émotionnels éventuels, en vue de l’établissement d’un plan thérapeutique personnalisé et holistique.
 
-<div class="inline-block p-4 my-4 border-4 border-yellow-600/20 dark:border-yellow-200/50 rounded-lg italic text-center text-yellow-800 dark:text-yellow-100">
-  <div class="prose dark:prose-invert">
+<div class="inline-block p-4 my-4 text-sm md:text-base border-4 border-yellow-600/20 dark:border-yellow-200/50 rounded-lg italic text-center text-yellow-800 dark:text-yellow-100">
 <b>💡 Note explicative !</b> : L’idée ici est de profiter du temps vacant du jeûne, pour focaliser l’esprit et faire une situation introspective. Au bout d’un moment, lorsqu’on a dépassé la sensation de faim, le corps se résigne aux nouvelles contraintes. <span class="underline-text">Notre mental</span> se détache complétement de l’emprise physique et s’en soustrait — comme pour les cellules mais sur le plan psychique — il aura le temps maintenant de régurgiter (des actes manqués, des traumas, des états de stress, des défis existentiels et autres toxicités), et de les recycler...
 
  <b>Il s’agira ici en amont (avec l'aide d'une tiers personne), de mettre en exergue tous les facteurs de conflits psychiques et d’identifier ceux potentiellement responsables de la <span class="underline-text">conversion organique</span>, c’est-à-dire, ceux psychosomatiques. Dans une phase avale, ces derniers seront utilisés dans l’élaboration du plan thérapeutique.</b>
-  </div>
 </div>
 
 

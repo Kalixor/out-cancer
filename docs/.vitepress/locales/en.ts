@@ -1,5 +1,5 @@
 export const enConfig = {
-  title: 'Cancer Therapeutics',
+  title: 'HuriYou',
   description: 'Natural solutions for cancer treatment',
 
   themeConfig: {

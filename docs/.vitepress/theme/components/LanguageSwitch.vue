@@ -16,24 +16,16 @@ const switchLanguage = (lang: string) => {
   const pathParts = path.split('/')
   const currentLang = pathParts[1]
   const pageName = pathParts[pathParts.length - 1]
+
+  console.log('pathParts is :', pathParts)
+  console.log('pageName is :', pageName)
   
-  // Handle root French pages
-  if (lang === 'fr') {
-    if (currentLang === 'en' || currentLang === 'ar') {
-      // Remove language prefix and keep the page name
-      router.go(`/${pageName}`)
-    }
-    return
-  }
+
+  router.go(path.replace(`/${currentLang}/`, `/${lang}/`))
   
-  // Handle switching to English or Arabic
-  if (currentLang === 'en' || currentLang === 'ar') {
-    // Already in a language subfolder, just switch the language part
-    router.go(path.replace(`/${currentLang}/`, `/${lang}/`))
-  } else {
-    // Coming from French (root), add language prefix
-    router.go(`/${lang}/${pageName}`)
-  }
+  // router.go(`/${lang}/${pageName}`)
+
+
 }
 </script>
 

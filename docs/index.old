@@ -10,13 +10,13 @@ const router = useRouter()
 
 onMounted(() => {
   const nav = (navigator.language || '').toLowerCase()
-  let locale = 'en'
-  if (nav.startsWith('fr')) locale = 'fr'
+  let locale = 'fr'
+  if (nav.startsWith('en')) locale = 'en'
   else if (nav.startsWith('ar')) locale = 'ar'
   router.go(`/${locale}/`)             // ← use .go(), not .replace()
 })
 </script>
 
 <p style="text-align:center;margin-top:2rem;">
-  Redirecting… <a href="/en/">wait seconds and click here</a> if nothing happens.
+  Redirecting… <a href="/fr/">click here</a> if nothing happens.
 </p>

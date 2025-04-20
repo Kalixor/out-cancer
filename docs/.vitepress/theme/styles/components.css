@@ -9,6 +9,21 @@
     box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
     transition: box-shadow 0.3s ease;
   }
+
+  .medical-illustration-square {
+    display: block;
+    width: 80%;
+    aspect-ratio: 1 / 1; /* carré */
+    margin: 1em auto;
+    border-radius: 8px;
+    object-fit: cover; /* important pour cropper */
+    box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
+    transition: box-shadow 0.3s ease;
+    /* Zoom statique */
+    transform: scale(1.04); /* Change la valeur ici pour zoomer ou dézoomer */
+    transform-origin: center; /* pour que le zoom parte du centre */
+    }
+  
   
   .medical-illustration-mini {
     float: right;
@@ -148,8 +163,8 @@
   display: flex;
   align-items: flex-start;
   background-color: #1f293742;      /* bright yellow */
-  border: 1px solid #96f77993;      /* deeper amber border */
-  color: #96f779d0;                 /* white text */
+  border: 1px solid #bbf7d093;      /* deeper amber border */
+  color: #bbf7d0;                 /* white text */
   border-radius: 0.5rem;
   padding: 1rem;
   margin: 1.5rem 0;
@@ -174,7 +189,7 @@
 @media (max-width: 640px) {
 
   .info-box {
-    font-size: .9rem;
+    font-size: .85rem;
     margin: 1.5rem .8em .8em;
     padding: .8rem;
 
@@ -183,14 +198,14 @@
     text-align:start;
   }
   .warn-box {
-    font-size: .9rem;
+    font-size: .85rem;
     margin: 1.5rem .8em .8em;
   }
   .warn-box .warn-text {
     text-align:start;
   }
   .see-box {
-    font-size: .9rem;
+    font-size: .85rem;
     margin: 1.5rem .8em .8em;
     padding: .8rem;
 

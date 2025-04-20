@@ -6,8 +6,6 @@ title: Santé
 
 # Santé
 
-Bienvenue dans la section **Santé**. 
-
 ### 🧘‍♂️ Et si la santé n'était pas dans une pilule, mais dans la simplicité ?
 
 À l’heure où la médecine moderne avance à grand pas, on oublie parfois que les clés de notre bien-être se trouvent souvent dans les gestes les plus élémentaires. Respirer profondément, marcher dans la nature, bien dormir, s’alimenter avec bon sens, écouter son corps… Ce sont là des remèdes puissants, accessibles à tous, et trop souvent négligés.
