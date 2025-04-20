@@ -7,6 +7,7 @@ import LanguageSwitch from './components/LanguageSwitch.vue'
 import ImcCalculator from './components/ImcCalculator.vue'
 import GkiEvaluator from './components/GkiEvaluator.vue'
 import CommentSection from './components/CommentSection.vue'
+import LinkButton from './components/LinkButton.vue'
 
 import { useNavigation } from './composables/useNavigation'
 import '@fortawesome/fontawesome-free/css/all.css'   // ← load the <i> tags
@@ -28,6 +29,7 @@ export default {
     app.component('ImcCalculator', ImcCalculator)
     app.component('FontAwesomeIcon', FontAwesomeIcon)
     app.component('CommentSection', CommentSection)
+    app.component('LinkButton', LinkButton)
   },
   setup() {
     useNavigation()

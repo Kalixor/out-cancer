@@ -112,7 +112,7 @@
     flex-direction: column;
     gap: 1rem;
     max-width: 300px;
-    margin: 1rem 0;
+    margin: 1.3rem;
   }
   
   .gki-calculator label {

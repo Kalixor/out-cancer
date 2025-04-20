@@ -18,7 +18,7 @@
 
 <div class="bg-green-200/50 px-1 py-1">OBJECTIF :</div>
 
- Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et amorce d'un état naturel de <span id="cetonique-ref1">[Cétose](/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> nutritionnelle - Famine pour inciter le cannibalisme cellulaire; <span id="autophagie-ref1">[Autophagie](/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) plus <span id="entose-ref2">[Entose](/terminologie#entose){data-return="entose-ref2"}</span>, ainsi que l'<span id="apoptose-ref2">[Apoptose](/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
+ Prédisposition à l’équilibre naturel de l’organisme par détoxification hydrique et amorce d'un état naturel de <span id="cetonique-ref1">[Cétose](/fr/sante/terminologie#etat_cetonique){data-return="cetonique-ref1"}</span> nutritionnelle - Famine pour inciter le cannibalisme cellulaire; <span id="autophagie-ref1">[Autophagie](/fr/sante/terminologie#autophagie){data-return="autophagie-ref1"}</span> (recyclage des composants internes cellulaires) plus <span id="entose-ref2">[Entose](/fr/sante/terminologie#entose){data-return="entose-ref2"}</span>, ainsi que l'<span id="apoptose-ref2">[Apoptose](/fr/sante/terminologie#apoptose){data-return="apoptose-ref2"}</span> - Équilibrage acido-basique (pondéré avec la maladie) ; Homéostasie relative.
 
 
 <div class="inline-block p-4 my-4 border-4 border-green-600/20 dark:border-green-200/50 rounded-lg italic text-center text-green-800 dark:text-green-200">
@@ -32,7 +32,7 @@
 <div class="bg-green-200/50 px-1 py-1">ACTIONS :</div><br>
 
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Faire un Jeûne hydrique</span> 🚿 Plus de 7 jours idéalement ou par 3 jours au minimum
-- Boire uniquement de l'eau. ⛔ <span class="text-red-300"><span id="imc-ref1">[L'IMC](/terminologie#IMC){data-return="imc-ref1"}</span> doit être supérieur à 18.5 - Utilisez [le Calculateur](/terminologie#ImcCalc){data-return="imc-ref1"}</span>
+- Boire uniquement de l'eau. ⛔ <span class="text-red-300"><span id="imc-ref1">[L'IMC](/fr/sante/terminologie#IMC){data-return="imc-ref1"}</span> doit être supérieur à 18.5 - Utilisez [le Calculateur](/fr/sante/terminologie#ImcCalc){data-return="imc-ref1"}</span>
 
 
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Ou Jeûne hydrique souple</span> 
@@ -42,7 +42,7 @@
 
 - IMC et État de fatigue du sujet (si besoin ajouter quelques protéines).
 - Prendre le pH (urinaire) Si en dessous de 4.5. - S’hydrater davantage.
-- Mesurer la <span id="glycemie-ref1">[Glycémie](/terminologie#glycemie){data-return="glycemie-ref1"}</span> et la <span id="cetonemie-ref1">[Cétonémie](/terminologie#cetonemie){data-return="cetonemie-ref1"}</span> (avec bandelettes) pour évaluer le <span id="gki-ref1">[GKI](/annexes#gki){data-return="gki-ref1"}</span> et les  <span id="cetone-ref1">[Corps Cétoniques](/annexes#cetone){data-return="cetone-ref1"}</span>, utilisez [l'Evaluateur](/annexes#gki-calc){data-return="cetone-ref1"} et suivre les indications.
+- Mesurer la <span id="glycemie-ref1">[Glycémie](/fr/sante/terminologie#glycemie){data-return="glycemie-ref1"}</span> et la <span id="cetonemie-ref1">[Cétonémie](/fr/sante/terminologie#cetonemie){data-return="cetonemie-ref1"}</span> (avec bandelettes) pour évaluer le <span id="gki-ref1">[GKI](/fr/sante/annexes#gki){data-return="gki-ref1"}</span> et les  <span id="cetone-ref1">[Corps Cétoniques](/fr/sante/annexes#cetone){data-return="cetone-ref1"}</span>, utilisez [l'Evaluateur](/fr/sante/annexes#gki-calc){data-return="cetone-ref1"} et suivre les indications.
 - Prendre un cliché (marqueurs) de la masse tumorale (par échographie ultrason...) au début de la phase.
 
 <div class="bg-green-200/50 px-1 py-1">REGIME ALIMENTAIRE :</div>
@@ -77,4 +77,4 @@ Introspection psychosomatique, mise en conscience des facteurs psychologiques ou
 <div class="bg-yellow-200/50 px-1 py-1 mt-4">ACTIONS :</div><br>
 <span class="bg-blue-500 text-gray-50 px-1 py-1">Faire un examen psychosomatique</span> 🧠 En quelques séances
 
- - Répondre au <span id="regime-ref1">[Questionnaire Psychosomatique](/terminologie#regime){data-return="regime-ref1"}</span> (faisable à distance)
+ - Répondre au <span id="regime-ref1">[Questionnaire Psychosomatique](/fr/sante/terminologie#regime){data-return="regime-ref1"}</span> (faisable à distance)

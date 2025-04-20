@@ -1,5 +1,5 @@
 export const frConfig = {
-  title: 'LibertyNa',
+  title: 'HuriYou',
   description: 'Des Solutions naturelles pour le traitement du cancer',
 
   themeConfig: {
@@ -19,35 +19,31 @@ export const frConfig = {
     ],
   
     sidebar: {
-      // quand l'URL commence par /fr/sante/
       '/fr/sante/': [
         {
-          text: '🥦 Thérapeutique du Cancer',
-          link: '/fr/sante/introduction/',
+          text: 'Santé',
+          link: '/fr/sante',
           items: [
             {
-              text: '🖋️ Préambule du Protocole',
-              link: '/fr/sante/introduction/'   // notez le slash final
+              text: '🥦 Thérapie du Cancer',
+              link: '/fr/sante/introduction/',
+              items: [ {
+                text: '🚩 Détox, et Psycho…',
+                link: '/fr/sante/posologie_0'
+              }],
             },
+           
             {
-              text: '🚩Détox, Cétose, Psycho...',
-              link: '/fr/sante/posologie_0'
+              text: '🖋️ Solution à la psychose',
+              link: '/fr/sante/introduction/',
+              // si vous voulez un sous‑niveau, vous pouvez ajouter un `items` ici
+              items: [
+                {
+                  text: '🚩Phase 1 – Détox, Cétose',
+                  link: '/fr/sante/posologie_0'
+                }
+              ]
             }
-            // … autres pages santé
-          ]
-        },
-        {
-          text: '🥦 Solution à la psychose',
-          items: [
-            {
-              text: '🖋️ Préambule du Protocole',
-              link: '/fr/sante/introduction/'   // notez le slash final
-            },
-            {
-              text: '🚩Détox, Cétose, Psycho...',
-              link: '/fr/sante/posologie_0'
-            }
-            // … autres pages santé
           ]
         }
       ],

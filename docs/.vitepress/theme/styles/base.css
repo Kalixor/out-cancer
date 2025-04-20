@@ -55,7 +55,7 @@ html, body, .vitepress, .vp-layout {
 
 /* indent second‑level children (level‑2) by +3rem */
 .VPSidebarItem.level-2 .VPLink {
-  padding-inline-start: calc(var(--vp-content-offset) + 2rem);
+  padding-inline-start: calc(var(--vp-content-offset) + .5rem);
 }
   
   /* Text formatting */
@@ -138,5 +138,21 @@ html, body, .vitepress, .vp-layout {
   
   .return-link:hover {
     background-color: var(--vp-c-brand-light);
+  }
+
+  .vp-button {
+    display: inline-block;
+    background-color: #3b82f6; /* couleur bleue */
+    color: white;
+    padding: 0.5em 1.2em;
+    border-radius: 9999px; /* pour l'effet pill */
+    text-decoration: none;
+    font-weight: 500;
+    margin: 0.25em;
+    transition: background-color 0.3s ease;
+  }
+  
+  .vp-button:hover {
+    background-color: #2563eb; /* un bleu un peu plus foncé au hover */
   }
   
